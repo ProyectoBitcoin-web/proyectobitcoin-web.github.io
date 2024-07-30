@@ -5,7 +5,7 @@ description: "Este artículo contiene declaraciones y fragmentos de documentos r
 date: 2024-07-18T12:33:55-04:00
 image: "images/cover-entrevista-satoshi-1280x720.png"
 categories: ['Historia de Bitcoin']
-author: "Genny Diaz"
+author: "Genny Díaz"
 tags: ['entrevista', 'Satoshi Nakamoto']
 draft: false
 ---

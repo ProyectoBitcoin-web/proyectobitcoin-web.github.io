@@ -2,7 +2,7 @@
 title: "¿Bitcoin es legal?"
 meta_title: "¿Bitcoin es legal? | Proyecto Bitcoin"
 date: 2023-02-15 20:11
-author: "Genny Diaz"
+author: "Genny Díaz"
 categories: [ABC de Bitcoin]
 tags: ["Conceptos Básicos"]
 description: "La legalidad de Bitcoin es terreno resbaloso. La respuesta es 'Depende de en qué país vivas, pero igual no importa'"

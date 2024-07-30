@@ -45,7 +45,7 @@ draft: false
 
 |          |          Comunidad              |           Descripción           | Grupo | Idioma |
 | -------- | :------------------------------ | :------------------------------ | :---: | :----: |
-|   logo   | Bitcoin 2140                    |                                 | Telegram |  🇪🇸 |
-|   logo   | Satoshi en Venezuela            |                                 | Telegram |  🇪🇸 |
-|   logo   | Librería de Satoshi             |                                 | Discord | 🇪🇸 - 🇺🇸 |
-|   logo   | Mujeres en Cripto               |                                 | Telegram | 🇪🇸 |
+| ![logo DB 2140](images/logo-2140-50px.png "Directo Bitcoin 2140") | Directo Bitcoin 2140 | Comunidad del Directo Bitcoin 2140 | Telegram |  🇪🇸 |
+| ![logo SEV](images/logo-SEV-50px.png "Satoshi en Venezuela") | Satoshi en Venezuela | Grupo para la comunidad de Satoshi en Venezuela - Conversación, educación, discusiones y más sobre Bitcoin! | Telegram |  🇪🇸 |
+| ![logo SEV](images/logo-SEV-50px.png "Librería de Satoshi") | Librería de Satoshi             |                                 | Discord | 🇪🇸 - 🇺🇸 |
+|   logo   | Mujeres en Crypto               |                                 | Telegram | 🇪🇸 |
