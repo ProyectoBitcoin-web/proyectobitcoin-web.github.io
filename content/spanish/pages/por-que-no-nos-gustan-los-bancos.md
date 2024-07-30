@@ -2,7 +2,7 @@
 title: "¿Por qué no nos gustan los bancos?"
 meta_title: "¿Por qué no nos gustan los bancos? | Proyecto Bitcoin"
 date: 2023-02-06 12:34
-author: "Genny Diaz"
+author: "Genny Díaz"
 categories: ["ABC de Bitcoin"]
 tags: ["Bancos", "Conceptos Básicos"]
 description: "Los gobiernos han delegado en los bancos una función que jamás debió ser suya, la de vigilancia y auditoría de los bienes de los ciudadanos"

@@ -2,7 +2,7 @@
 title: "¿Qué es el Libro blanco de Bitcoin?"
 meta_title: "¿Qué es el Libro blanco de Bitcoin? | Proyecto Bitcoin"
 date: 2023-01-20 14:49
-author: "Genny Diaz"
+author: "Genny Díaz"
 categories: ["Basico"]
 tags: ["Conceptos Básicos", "Historia"]
 description: "El libro blanco de Bitcoin (o Whitepaper en inglés) es el documento donde se explica qué es lo que hace funcionar esta criptomoneda."

@@ -2,7 +2,7 @@
 title: "4 herramientas para usar Bitcoin más fácil"
 meta_title: "4 herramientas para usar Bitcoin más fácil | Proyecto Bitcoin"
 date: 2023-02-15 16:31
-author: "Genny Diaz"
+author: "Genny Díaz"
 categories: ["Intermedio"]
 tags: ["Bitcoin en Breve", "Video"]
 description: "Herramientas útiles facilitarte el trabajo con Bitcoin"

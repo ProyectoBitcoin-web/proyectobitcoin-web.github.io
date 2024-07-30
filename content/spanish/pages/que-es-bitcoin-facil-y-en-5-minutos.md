@@ -2,7 +2,7 @@
 title: "¿Qué es Bitcoin? Fácil y en 5 minutos"
 meta_title: "¿Qué es Bitcoin? Fácil y en 5 minutos | Proyecto Bitcoin"
 date: 2023-02-15 21:29
-author: "Genny Diaz"
+author: "Genny Díaz"
 categories: ["Basico"]
 tags: ["Bitcoin Bite x Bite", "Videos"]
 description: "Arrancamos por lo básico. ¿Qué es Bitcoin? en 5 minutos y sin palabras domingueras"

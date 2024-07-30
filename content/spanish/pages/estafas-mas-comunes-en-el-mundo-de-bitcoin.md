@@ -2,7 +2,7 @@
 title: "Estafas más comunes en el mundo de Bitcoin"
 meta_title: "Estafas más comunes en el mundo de Bitcoin | Proyecto Bitcoin"
 date: 2023-02-15 20:07
-author: "Genny Diaz"
+author: "Genny Díaz"
 categories: ["Intermedio"]
 tags: ["Video", "Bitcoin en Breve"]
 description: "Algunas claves para reconocer las estafas más comunes en Bitcoin"

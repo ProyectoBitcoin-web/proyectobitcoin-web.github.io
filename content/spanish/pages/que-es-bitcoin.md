@@ -2,7 +2,7 @@
 title: "¿Qué es Bitcoin?"
 meta_title: "¿Qué es Bitcoin? | Proyecto Bitcoin"
 date: 2023-01-18 12:42
-author: "Genny Diaz"
+author: "Genny Díaz"
 categories: ["ABC de Bitcoin"]
 tags: ["Conceptos Básicos"]
 description: "Qué es eso que ha dado tanto que hablar e inició una revolución de monedas digitales. Es Bitcon"
