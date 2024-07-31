@@ -30,7 +30,7 @@ Este tipo de instrumento bursátil permite a los inversionistas participar fáci
 
 En el caso de bitcoin, esto implica que el inversionista no tendrá necesidad de comprar, vender y custodiar los BTC, ya que la empresa emisora del ETF se ocupa por completo de gestionarlo.
 
-{{< image src="images/etf-foto-2.jpg" caption="Por varios años, importantes administradores de fondos de EE UU intentaron persuadir a la SEC aprobar los ETF al contado de Bitcoin." alt="Taza dorada con la inscripción Bitcoin Millionaire" height="" width="" position="center" command="fill" option="" class="img-fluid" title="ETF al contado de Bitcoin"  webp="false" >}}
+{{< image src="images/etf-foto-2.jpg" caption="Por varios años, importantes administradores de fondos de EE UU intentaron persuadir a la SEC de aprobar los ETF al contado de Bitcoin." alt="Taza dorada con la inscripción Bitcoin Millionaire." height="" width="640" position="center" command="" option="q100" class="img-fluid" title="ETF al contado de Bitcoin"  webp="false" >}}
 
 ## ¿Cómo funcionan los ETF de bitcoin?
 
