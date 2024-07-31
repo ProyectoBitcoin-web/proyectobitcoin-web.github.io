@@ -3,7 +3,7 @@ title: "ETF de bitcoin: ¿Qué son y cómo impactan el ecosistema bitcoiner?"
 meta_title: "Qué son los ETF de Bitcoin y cómo impactan el ecosistema bitcoiner | Proyecto Bitcoin"
 description: "Tras la aprobación del primer ETF de Bitcoin al contado en EE UU, te cuento las claves para comprender el tema."
 author: "Genny Díaz"
-image: "images/Etf-bitcoin-wall-street-1250x720.jpg/"
+image: "images/Etf-bitcoin-wall-street-1280x720.jpg/"
 tags: ['ETF', 'Bitcoin', 'BTC']
 categories: ['Mercado de bitcoin']
 date: 2024-07-30T12:57:35-04:00
@@ -29,6 +29,8 @@ ETF es la sigla de Exchange Traded Funds (fondo cotizado en bolsa). Es un tipo d
 Este tipo de instrumento bursátil permite a los inversionistas participar fácilmente en diferentes mercados de forma indirecta. Es decir, el usuario adquiere una especie de acción o participación, en lugar del activo real.
 
 En el caso de bitcoin, esto implica que el inversionista no tendrá necesidad de comprar, vender y custodiar los BTC, ya que la empresa emisora del ETF se ocupa por completo de gestionarlo.
+
+{{< image src="images/etf-foto-2.jpg" caption="Por varios años, importantes administradores de fondos de EE UU intentaron persuadir a la SEC aprobar los ETF al contado de Bitcoin." alt="Taza dorada con la inscripción Bitcoin Millionaire" height="" width="" position="center" command="fill" option="" class="img-fluid" title="ETF al contado de Bitcoin"  webp="false" >}}
 
 ## ¿Cómo funcionan los ETF de bitcoin?
 

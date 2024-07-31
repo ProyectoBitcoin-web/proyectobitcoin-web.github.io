@@ -5,7 +5,7 @@ description: "Herramientas, Comunidades, Tal día como hoy en Bitcoin"
 date: 2024-07-26T18:47:07-04:00
 author: "Proyecto Bitcoin"
 categories: ["Recursos", "Herramientas", ]
-tags: ["explorador de bloques", "criptomonedas", "mercado", "efemérodes"]
+tags: ["explorador de bloques", "criptomonedas", "mercado", "efemérides"]
 draft: false
 ---
 
@@ -39,13 +39,13 @@ draft: false
 | [![logo coinmarketcap](images/coinmarketcap-50px.png "CoinMarketCap")](https://coinmarketcap.com/es/currencies/bitcoin/) | [CoinMarketCap](https://coinmarketcap.com/es/currencies/bitcoin/) | Todo el mercado de criptomonedas. Gráficos, mercados, noticias, analíticas  |
 |[![logo bitcoinal](images/b-icon-50px.png "Bitcoinal")](https://bitcoinal.com/) | [Bitcoinal](https://bitcoinal.com/) | Herramienta de escritorio "Bitcoin only". Precio en múltiples divisas, estadísticas de red, calculadora de conversión  |
 
-## Comunidades
+## Comunidades y grupos bitcoiners
 
 {{< image src="images/comunidades-v2-300.png" caption="" alt="Personajes se integran con engranajes" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="Comunidades"  webp="false" >}}
 
-|          |          Comunidad              |           Descripción           | Grupo | Idioma |
+|          |          Comunidad              |           Descripción           |  Vía  | Idioma |
 | -------- | :------------------------------ | :------------------------------ | :---: | :----: |
 | ![logo DB 2140](images/logo-2140-50px.png "Directo Bitcoin 2140") | Directo Bitcoin 2140 | Comunidad del Directo Bitcoin 2140 | Telegram |  🇪🇸 |
 | ![logo SEV](images/logo-SEV-50px.png "Satoshi en Venezuela") | Satoshi en Venezuela | Grupo para la comunidad de Satoshi en Venezuela - Conversación, educación, discusiones y más sobre Bitcoin! | Telegram |  🇪🇸 |
-| ![logo SEV](images/logo-SEV-50px.png "Librería de Satoshi") | Librería de Satoshi             |                                 | Discord | 🇪🇸 - 🇺🇸 |
-|   logo   | Mujeres en Crypto               |                                 | Telegram | 🇪🇸 |
+| ![logo SEV](images/logo-LdS-50px.png "Librería de Satoshi") | Librería de Satoshi | Comunidad de la Librería de Satoshi donde juntos aprendemos y enseñamos Bitcoin y Lightning | Discord / Telegram | 🇪🇸 - 🇺🇸 |
+| ![logo MeC](images/logo-MEC-50px.png "Mujeres en Crypto") | Mujeres en Crypto | Somos una comunidad creada con el objetivo de fomentar la participación y liderazgo femenino en Web3 mediante espacios de aprendizaje y networking | Telegram | 🇪🇸 |

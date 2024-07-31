@@ -46,7 +46,7 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["blog"]
+include_sections = ["blog", "pages", "calendar"]
 show_image = true
 show_description = true
 show_tags = true
@@ -62,7 +62,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Bitcoin", "Educacion", ]
+keywords = ["Bitcoin", "Educacion"]
 description = "Información y conocimiento para aprender Bitcoin fácil"
 author = "Proyecto Bitcoin"
 image = "images/cover-pb-site.png"

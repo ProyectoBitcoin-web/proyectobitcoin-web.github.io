@@ -1,10 +1,9 @@
 ---
-title: "Bitcoin Y Las Resistencias"
-meta_title: "Bitcoin Y Las Resistencias | Proyecto Bitcoin"
+title: "Bitcoin y las Resistencias"
+meta_title: "Bitcoin y las Resistencias | Proyecto Bitcoin"
 description: "Bitcoin encuentra muchas resistencias para su adopción, no sólo técnicas, sino también filosóficas"
 date: 2024-07-30T12:30:54-04:00
-image: "images/bitcoin-resistencias.jpg"
-toc: false
+image: "images/bitcoin-resistencias-1280x720.jpg"
 categories: ["Filosofía de Bitcoin"]
 author: "Elena Cazes"
 tags: ['Opinión']
@@ -30,3 +29,5 @@ No desesperemos. La resistencia al cambio es solo aparente. El verdadero trabajo
 Bitcoin no solo es una propuesta novedosa y disruptiva, entró al mundo en el momento preciso, de la mano de un genio que supo, además, desaparecer cuando hacía falta que desapareciera. Tantas cosas hicieron falta para que lo tengamos hoy día como alternativa. Mientras era pequeño y vulnerable, nadie le prestó atención. Cuando tuvo tropiezos, también tuvo las soluciones disponibles, precisamente porque era pequeño. Creció de la mano de los usuarios, llamó capital (en forma de investigación y producción de procesadores) justo cuando adquirió masa crítica. Los usuarios hemos ido aprendiendo de la mano de otros usuarios, tal como el anarco capitalismo lo plantea.
 
 Bitcoin, a fin de cuentas, terminó siendo la tormenta perfecta. Ahora, empieza la etapa de escalado. Estamos enfrentando problemas nuevos. Pero es que con Bitcoin, todo es nuevo.
+
+<hr>
