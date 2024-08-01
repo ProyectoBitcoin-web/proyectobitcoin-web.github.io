@@ -40,7 +40,7 @@ description: "Conceptos más profudos, para seguir adelante en la madriguera de 
 
 * [Precios y Bitcoin. Tips para atravesar un mercado bajista](../precios-y-bitcoin-tips-para-atravesar-un-mercado-bajista)
 
-* []()
+* [¿Quién controla Bitcoin?](../que-le-da-valor-a-bitcoin)
 
 * []()
 
