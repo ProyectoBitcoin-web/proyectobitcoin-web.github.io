@@ -84,3 +84,5 @@ Recientemente, el economista Juan Ramon Rallo señaló que los ETF responden a u
 Se podría decir que la llegada de actores del mundo bursátil y la aceptación por parte de los reguladores, representa la desaparición definitiva de antiguas narrativas anti bitcoin. Por otra parte, hay quieres confían en que el propósito actual de Bitcoin prevalecerá.
 
 Jeffrey Ross, fundador de Vailshire Capital, vaticina que los ETF de bitcoin serán solo una solución temporal, una transición hacia la sustitución de los instrumentos financieros tradicionales por Bitcoin. “Cuanto más tiempo las personas posean bitcoin, más se incentivarán a aprender qué es realmente. La generación más joven heredará la riqueza de sus padres y venderán estos ETF y comprarán bitcoin”, declaró Ross a un portal de noticias.
+
+<hr>

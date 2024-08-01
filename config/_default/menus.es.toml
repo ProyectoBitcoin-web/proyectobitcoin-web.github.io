@@ -69,16 +69,21 @@ pageRef = "/authors"
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Acerca de"
 pageRef = "/about"
 weight = 1
 
+#[[footer]]
+#name = "Elements"
+#pageRef = "pages/elements"
+#weight = 2
+
 [[footer]]
-name = "Elements"
-pageRef = "pages/elements"
+name = "Licencia de uso"
+pageRef = "pages/licenses"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
+name = "Política de Privacidad"
+pageRef = "pages/privacy-policy"
 weight = 3
