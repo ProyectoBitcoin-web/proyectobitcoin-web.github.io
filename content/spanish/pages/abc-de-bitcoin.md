@@ -25,15 +25,19 @@ description: "Empecemos, aquí tienes una lista de las bases necesarias para dar
 
 * [¿Qué es el Libro blanco de Bitcoin?](../que-es-el-libro-blanco-de-bitcoin)
 
-* [¿Qué es el Libro blanco de Bitcoin?(Video)](../que-es-el-libro-blanco-de-bitcoin-2)
+* [¿Qué es el Libro blanco de Bitcoin?(Video)](../que-es-el-libro-blanco-de-bitcoin(Video))
 
 * [¿Bitcoin es dinero?](../bitcoin-es-dinero)
 
-* [¿Qué es una wallet de bitcoin?]
+* [¿Qué es una wallet de bitcoin?](../que-es-una-wallet-de-bitcoin)
+
+* [¿Qué es una wallet o monedero de criptomonedas?](../que-es-una-wallet-o-monedero-de-criptomonedas)
 
 * [¿Qué es la minería de Bitcoin?](../mineria-de-bitcoin-lo-mas-basico)
 
-* [¿Qué le da valor a Bitcoin?]
+* [¿Qué es la minería de Bitcoin?](../que-es-la-mineria-de-bitcoin)
+
+* [¿Qué le da valor a Bitcoin?](../que-le-da-valor-a-bitcoin)
 
 * [¿Por qué no nos gustan los bancos?](../por-que-no-nos-gustan-los-bancos)
 
@@ -41,7 +45,7 @@ description: "Empecemos, aquí tienes una lista de las bases necesarias para dar
 
 * [¿Bitcoin es legal?](../bitcoin-es-legal)
 
-* [¿Te puedes hacer rico con Bitcoin?]
+* [¿Te puedes hacer rico con Bitcoin?]()
 
 * [3 claves para entender Bitcoin](../claves_entender_bitcoin)
 
