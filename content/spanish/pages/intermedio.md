@@ -42,10 +42,8 @@ description: "Conceptos más profudos, para seguir adelante en la madriguera de 
 
 * [¿Quién controla Bitcoin?](../que-le-da-valor-a-bitcoin)
 
-* []()
+* [5 tips para mover tu bitcoin con comisiones de red bajas](../pages/tips-para-mover-tu-bitcoin-con-comisiones-de-red-bajas)
 
-* []()
-
-* []()
+* [4 tips para usar Bitcoin con seguridad](../tips-para-usar-bitcoin-con-seguridad)
 
 <hr>

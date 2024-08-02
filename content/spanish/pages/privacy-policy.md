@@ -12,7 +12,7 @@ draft: false
 
 ### Introducción
 
-En Proyecto Bitcoin, la privacidad de nuestros visitantes es una de nuestras principales prioridades. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información que nos proporcionas al visitar nuestro sitio web https://proyectobitcoin-web.github.io/es/.
+En Proyecto Bitcoin, la privacidad de nuestros visitantes es una de nuestras principales prioridades. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información que nos proporcionas al visitar nuestro sitio web <https://proyectobitcoin.com>.
 
 ### Información que recopilamos
 
@@ -21,7 +21,7 @@ En Proyecto Bitcoin, la privacidad de nuestros visitantes es una de nuestras pri
 
 ### Servicios de análisis web de terceros
 
-Nuestro sitio web puede utilizar servicios de análisis en línea de terceros, como los de Google Analytics. Los proveedores que administran estos servicios de análisis utilizan tecnologías automatizadas para recopilar datos (como direcciones de correo electrónico, direcciones IP, cookies y otros identificadores de dispositivos) para evaluar, por ejemplo, el uso de nuestro sitio web y diagnosticar problemas técnicos. Para obtener más información sobre Google Analytics, visite http://www.google.com/analytics/learn/privacy.html. Puede inhabilitar Google Analytics visitando https://tools.google.com/dlpage/gaoptout?hl+en=GB.
+Nuestro sitio web puede utilizar servicios de análisis en línea de terceros, como los de Google Analytics. Los proveedores que administran estos servicios utilizan tecnologías automatizadas para recopilar datos (como direcciones de correo electrónico, direcciones IP, cookies y otros identificadores de dispositivos) para evaluar, por ejemplo, el uso de nuestro sitio web y diagnosticar problemas técnicos. Para obtener más información sobre Google Analytics, visite http://www.google.com/analytics/learn/privacy.html. Puede inhabilitar Google Analytics visitando https://tools.google.com/dlpage/gaoptout?hl+en=GB.
 
 ### Cómo utilizamos tu información
 
@@ -51,6 +51,6 @@ Al utilizar nuestro sitio web, aceptas nuestra Política de Privacidad y sus Té
 
 ### Contacto
 
-Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarnos a través de nuestro [Formulario de Contacto](../contact)
+Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarnos a través de nuestro [Formulario de Contacto](../contact).
 
 <hr>

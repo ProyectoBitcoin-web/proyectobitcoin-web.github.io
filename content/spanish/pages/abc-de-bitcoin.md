@@ -45,10 +45,12 @@ description: "Empecemos, aquí tienes una lista de las bases necesarias para dar
 
 * [¿Bitcoin es legal?](../bitcoin-es-legal)
 
-* [¿Te puedes hacer rico con Bitcoin?]()
+* [¿Te puedes hacer rico con Bitcoin?](../te-puedes-hacer-rico-con-bitcoin)
 
 * [3 claves para entender Bitcoin](../claves_entender_bitcoin)
 
 * [¿Cómo empezar con Bitcoin?](../como-empezar-con-bitcoin)
+
+* [Relatos de Bitcoin: Bloque Génesis, Bitcoin Pizza Day y más](../relatos-de-bitcoin-bloque-genesis-bitcoin-pizza-day-y-mas)
 
 <hr>

@@ -32,6 +32,8 @@ draft: false
 
 {{< image src="images/seguimiento-precio-430px.png" caption="" alt="Balanza, moneda bitcoin y moneda dólar" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="Seguimiento de Precios"  webp="false" >}}
 
+<a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
+
 |                           |              Herramienta              |            Descripción            |
 | :------------------------ | :------------------------------------ | :-------------------------------- |
 | [![logo yadio](images/yadio.png "Yadio")](https://yadio.io/) | [Yadio.io](https://yadio.io/) | Precios de Bitcoin contra cualquier divisa a nivel global. Seguimiento de ofertas p2p, calculadora de conversión. |
