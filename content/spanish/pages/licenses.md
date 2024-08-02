@@ -14,4 +14,4 @@ Todo el contenido original de Proyecto Bitcoin está registrado bajo la Licencia
 |     Licencias     |   Ver   |
 | :---------------: | :-----: |
 | [Proyecto Bitcoin Web](https://proyectobitcoin-web.github.io/es/) © 2024 by [Elena Cazes y Genny Díaz](pages/authors) is licensed under CC BY 4.0. | [![logo cc-by-4.0](images/cc-by-4.png "VER licencia")](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) |
-| El tema [Hugoplate](https://github.com/zeon-studio/hugoplate) fue usado conforme la licencia MIT | [![logo MIT](images/mit-license-logo.png "VER Licencia")](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) |
+| El tema [Hugoplate](https://github.com/zeon-studio/hugoplate), diseñado y desarrollado por [Zeon Studio](https://zeon.studio), fue utilizado y personalizado, conforme la licencia MIT | [![logo MIT](images/mit-license-logo.png "VER Licencia")](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) |
