@@ -12,7 +12,7 @@ draft: false
 
 ### Introducción
 
-En Proyecto Bitcoin, la privacidad de nuestros visitantes es una de nuestras principales prioridades. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información que nos proporcionas al visitar nuestro sitio web https://proyectobitcoin-web.github.io/es/.
+En Proyecto Bitcoin, la privacidad de nuestros visitantes es una de nuestras principales prioridades. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información que nos proporcionas al visitar nuestro sitio web <https://proyectobitcoin.com>.
 
 ### Información que recopilamos
 

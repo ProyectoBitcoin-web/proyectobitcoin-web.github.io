@@ -3,6 +3,8 @@ title: "Agosto"
 meta_title: "Tal dia como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/rojo.jpg"
+categories: ["hitos", "calendario"]
+tag: ["segwit", "vulnerabilidad", "minería", "PoW", "Hal Finney"]
 date: 2024-07-29T00:21:53-04:00
 draft: false
 ---
@@ -39,11 +41,11 @@ En ese mismo workshop, que estaba destinado a desarrolladores, Joseph Poon y Tha
 
 {{< accordion "Fuentes" >}}
 
-- https://steemit.com/bitcoin/@tobixen/a-brief-history-of-the-bitcoin-block-size-war
-- https://youtu.be/ON_R_lGTFu8
-- https://www.criptonoticias.com/comunidad/aparecen-correos-satoshi-nakamoto-con-mike-hearn-escalabilidad-bitcoin/
-- https://bitcointalk.org/index.php?topic=1391350.0
-- https://github.com/jgarzik/bip100/blame/master/bip-0100.mediawiki
+- <https://steemit.com/bitcoin/@tobixen/a-brief-history-of-the-bitcoin-block-size-war>
+- <https://youtu.be/ON_R_lGTFu8>
+- <https://www.criptonoticias.com/comunidad/aparecen-correos-satoshi-nakamoto-con-mike-hearn-escalabilidad-bitcoin/>
+- <https://bitcointalk.org/index.php?topic=1391350.0>
+- <https://github.com/jgarzik/bip100/blame/master/bip-0100.mediawiki>
 
 {{< /accordion >}}
 
@@ -59,19 +61,19 @@ El robo de Bitfinex representó la mayor pérdida de bitcoin por un intercambio 
 
 La vulnerabilidad parece haber estado relacionada con la estructura multifirma implementada en alianza con BitGo para añadir seguridad a las cuentas.
 
-{{< image src="images/efemerides/2-agosto-2.png" caption="" alt="Captura de pantalla Reuters" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Titular de Reuters sobre el robo"  webp="false" >}}
+BitGo reportó que sus servidores no habían sido vulnerados:
 
-BitGo reportó que sus servidores no habían sido vulnerados <https://twitter.com/BitGo/status/760624908334346240>
+{{< image src="images/efemerides/2-agosto-2.png" caption="Fuente: <https://twitter.com/BitGo/status/760624908334346240>" alt="Captura Bitgo" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Anuncio de Bitgo en Twitter"  webp="false" >}}
 
 Todos los servicios de intercambio fueron detenidos durante el proceso de investigación. El precio de Bitcoin cayó un 20% en un mercado que ya estaba a la baja antes del incidente.
 
 {{< accordion "Fuentes" >}}
 
-- https://www.reddit.com/r/Bitcoin/comments/4vtuxo/bitfinex_security_breach_trading_will_be_halted/d61oelu/
-- https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know
-- https://blog.bitgo.com/bitfinex-breach-update-2acf0e30719e
-- https://mashable.com/article/bitfinex-hacked
-- https://www.reuters.com/article/us-bitfinex-hacked-hongkong-idUSKCN10E0KP
+- <https://www.reddit.com/r/Bitcoin/comments/4vtuxo/bitfinex_security_breach_trading_will_be_halted/d61oelu/>
+- <https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know>
+- <https://blog.bitgo.com/bitfinex-breach-update-2acf0e30719e>
+- <https://mashable.com/article/bitfinex-hacked>
+- <https://www.reuters.com/article/us-bitfinex-hacked-hongkong-idUSKCN10E0KP>
 
 {{< /accordion >}}
 
@@ -85,9 +87,9 @@ Hasta el día de hoy, este ha sido el único fallo grave del protocolo que haya 
 
 {{< accordion "Fuentes" >}}
 
-https://nvd.nist.gov/vuln/detail/CVE-2010-5139
-https://es.wikipedia.org/wiki/Historia_de_bitcoin#2009
-https://iwillteachucrypto.medium.com/the-complete-history-of-bitcoin-how-satoshi-the-worlds-first-decentralized-came-to-be-d5c0ef1cb067
+- <https://nvd.nist.gov/vuln/detail/CVE-2010-5139>
+- <https://es.wikipedia.org/wiki/Historia_de_bitcoin#2009>
+- <https://iwillteachucrypto.medium.com/the-complete-history-of-bitcoin-how-satoshi-the-worlds-first-decentralized-came-to-be-d5c0ef1cb067>
 
 {{< /accordion >}}
 
@@ -99,13 +101,13 @@ La Guerra de los Bloques, como se llamó a toda la polémica que terminó en la 
 
 {{< accordion "Fuentes" >}}
 
-- https://es.wikipedia.org/wiki/SegWit
-- https://bravenewcoin.com/insights/bitcoin-scaling-solution-segwit-released
-- https://bitcoincore.org/en/2016/10/27/release-0.13.1/
-- https://cointelegraph.com/news/ready-steady-fork-bitcoin-core-to-release-segwit-in-november
-- https://www.criptonoticias.com/mineria/segwit-esta-oficialmente-activado-red-bitcoin/
-- https://mempool.space/es/block/0000000000000000001c8018d9cb3b742ef25114f27563e3fc4a1902167f9893
-- https://twitter.com/CriptoNoticias/status/1686392166833123328 
+- <https://es.wikipedia.org/wiki/SegWit>
+- <https://bravenewcoin.com/insights/bitcoin-scaling-solution-segwit-released>
+- <https://bitcoincore.org/en/2016/10/27/release-0.13.1/>
+- <https://cointelegraph.com/news/ready-steady-fork-bitcoin-core-to-release-segwit-in-november>
+- <https://www.criptonoticias.com/mineria/segwit-esta-oficialmente-activado-red-bitcoin/>
+- <https://mempool.space/es/block/0000000000000000001c8018d9cb3b742ef25114f27563e3fc4a1902167f9893>
+- <https://twitter.com/CriptoNoticias/status/1686392166833123328>
 
 {{< /accordion >}}
 
@@ -113,7 +115,7 @@ La Guerra de los Bloques, como se llamó a toda la polémica que terminó en la 
 
 El 28 de agosto de 2014 muere Hal Finney, creador, en 2004, del primer sistema de prueba de trabajo reutilizable y receptor de la primera transacción de Bitcoin.
 
-{{< image src="images/efemerides/Hal_Finney_(computer_scientist).jpg" caption="" alt="Foto de Hal Finney, Científico de Datos " height="370" width="268" position="center" command="" option="q100" class="img-fluid" title="Hal Finney"  webp="false" >}}
+{{< image src="images/efemerides/Hal_Finney_(computer_scientist).jpg" caption="" alt="Foto de Hal Finney, Científico de Datos " height="350" width="350" position="center" command="" option="q100" class="img-fluid" title="Hal Finney"  webp="false" >}}
 
 Finney fue un contribuidor prolífico a la causa de la privacidad y los Cypherpunks, aportando a los sistemas de remails anónimos y a los sistemas de encriptación.
 
@@ -121,9 +123,9 @@ Le diagnosticaron ELA (esclerosis lateral amiotrófica) en el año 2009, siguió
 
 El 19 de marzo de 2013 publicó, en bitcointalk “Bitcoin y yo” un artículo donde relata su encuentro con la criptomoneda, lo mucho que le entusiasmaba y el trabajo que hizo para ayudar a Satoshi a mejorarla.
 
-Fue el primer minero, además de Satoshi, y recibió de éste la primera transacción que se conoce: 1HLoD9E4SDFFPDiYfNYnkBLQ85Y51J3Zb1
+**Fue el primer minero, además de Satoshi,** y recibió de éste la primera transacción que se conoce: 1HLoD9E4SDFFPDiYfNYnkBLQ85Y51J3Zb1
 
-https://twitter.com/halfin/status/1110302988
+{{< image src="images/efemerides/28-agosto-2.png" caption="Fuente: <https://twitter.com/halfin/status/1110302988>" alt="Captura del tuit de Hal Finney" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Corriendo Bitcoin"  webp="false" >}}
 
 Falleció en Phoenix, Arizona, a consecuencia de las complcaiones de la ELA. Fue criopreservado en la Alcor Life Extension Foundation.
 
@@ -131,12 +133,12 @@ El famoso paciente 128.
 
 {{< accordion "Fuentes" >}}
 
-- https://youtu.be/CNXW2sPuUrc?si=bhK8GRuMnKN-OoKZ
-- https://alfre.info/blog/historiacrypto-1-cypherpunks-bitcoin/
-- https://bitcointalk.org/index.php?topic=155054.0
-- https://drive.google.com/file/d/1UJ_RjJgcmNng8lIGpo_VAfdu2fUZckx1/edit
-- https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)
-- https://mempool.space/es/address/1HLoD9E4SDFFPDiYfNYnkBLQ85Y51J3Zb1
+- <https://youtu.be/CNXW2sPuUrc?si=bhK8GRuMnKN-OoKZ>
+- <https://alfre.info/blog/historiacrypto-1-cypherpunks-bitcoin/>
+- <https://bitcointalk.org/index.php?topic=155054.0>
+- <https://drive.google.com/file/d/1UJ_RjJgcmNng8lIGpo_VAfdu2fUZckx1/edit>
+- <https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)>
+- <https://mempool.space/es/address/1HLoD9E4SDFFPDiYfNYnkBLQ85Y51J3Zb1>
 
 {{< /accordion >}}
 
