@@ -1,10 +1,10 @@
 ---
 title: "Agosto"
-meta_title: "Tal dia como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
+meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/rojo.jpg"
-categories: ["hitos", "calendario"]
-tag: ["segwit", "vulnerabilidad", "minería", "PoW", "Hal Finney"]
+categories: ["Hitos", "Calendario"]
+tag: ["Segwit", "Vulnerabilidad", "Minería", "PoW", "Hal Finney"]
 date: 2024-07-29T00:21:53-04:00
 draft: false
 ---
