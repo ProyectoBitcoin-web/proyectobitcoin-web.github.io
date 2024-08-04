@@ -15,7 +15,7 @@ El 1ro de abril de 2017 Japón reconoce bitcoin como un método de pago legal.
 
 Luego del colapso de MtGox el país entró en un período de mucha cautela con la criptomoneda y la presión regulatoria aumentó.
 
-Luego de muchas discusiones, la legislatura del país aprobó una ley que puso los intercambios de bitcoins bajo reglas contra el lavado de dinero / conozca a su cliente,
+Luego de muchas discusiones, la legislatura del país aprobó una ley que puso los intercambios de bitcoins bajo reglas contra el lavado de dinero/conozca a su cliente.
 
 Al tiempo que categoriza al bitcoin como una especie de instrumento de prepago.
 
@@ -101,20 +101,18 @@ El 27 de abril de 2011 Gavin Andresen, para entonces ya mantenedor principal del
 
 En el mensaje, Andresen explica sus motivaciones para asistir a la invitación y deja claro que va como asesor, con sus viáticos y honorarios cubiertos.
 
-“Acepté la invitación para hablar porque el hecho de que fui invitado significa que Bitcoin ya está en su radar, y creo que podría ser una buena oportunidad para hablar sobre por qué creo que Bitcoin hará del mundo un lugar mejor…
+>_Acepté la invitación para hablar porque el hecho de que fui invitado significa que Bitcoin ya está en su radar, y creo que podría ser una buena oportunidad para hablar sobre por qué creo que Bitcoin hará del mundo un lugar mejor. Creo que los objetivos de este proyecto son crear una mejor moneda, crear un sistema de pago internacional más competitivo y eficiente y dar a las personas un control más directo sobre sus finanzas. Y no creo que ninguno de esos objetivos sea incompatible con los objetivos del gobierno._
 
-“Creo que los objetivos de este proyecto son crear una mejor moneda, crear un sistema de pago internacional más competitivo y eficiente y dar a las personas un control más directo sobre sus finanzas…
+Luego manifiesta su preocupación sobre la posibilidad de amenaza que significa dar esta información a la organización de inteligencia y que esto _“aumente las posibilidades de que intenten hacer algo que no queremos que hagan.”_
 
-Y no creo que ninguno de esos objetivos sea incompatible con los objetivos del gobierno.”
+Cierra diciendo:
 
-Luego manifiesta su preocupación sobre la posibilidad de amenaza que significa dar esta información a la organización de inteligencia y que esto “aumente las posibilidades de que intenten hacer algo que no queremos que hagan.”
-
-Cierra diciendo “Sin embargo, realmente preferiría no escuchar ninguna teoría conspiranoica sobre cómo implantarán en secreto un chip de control mental en mi cabeza, mientras estoy allí”
+>_Sin embargo, realmente preferiría no escuchar ninguna teoría conspiranoica sobre cómo implantarán en secreto un chip de control mental en mi cabeza, mientras estoy allí._
 
 PS: Se ve que los conspiranoicos no han cambiado mucho del 2011 hasta hoy.
 
 {{< notice "note" >}}
-Gracias a @joc_ra por el aporte. ❤️✨
+Gracias a [@joc_ra](https://x.com/joc_ra) por el aporte. ❤️✨
 {{< /notice >}}
 
 {{< accordion "Fuentes" >}}
