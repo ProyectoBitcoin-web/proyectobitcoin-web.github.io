@@ -71,7 +71,7 @@ image = "images/cover-pb-site.png"
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
-google = "428526944"   # Your verification code
+google = "G-6612HWYXQK"   # Your verification code
 bing = "F51B7F396DAAE168E84DE4F7DA6B58E6"     # Your verification code
 baidu = ""    # Your verification code
 facebook = "" # Your verification code
