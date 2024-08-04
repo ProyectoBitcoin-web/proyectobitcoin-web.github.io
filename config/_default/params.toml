@@ -22,7 +22,7 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "https://formspree.io/f/xqazezlp" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-6612HWYXQK" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
@@ -71,7 +71,7 @@ image = "images/cover-pb-site.png"
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
-google = "428526944"   # Your verification code
+google = "G-6612HWYXQK"   # Your verification code
 bing = "F51B7F396DAAE168E84DE4F7DA6B58E6"     # Your verification code
 baidu = ""    # Your verification code
 facebook = "" # Your verification code
