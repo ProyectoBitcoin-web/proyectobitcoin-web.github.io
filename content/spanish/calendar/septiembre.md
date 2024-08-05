@@ -11,11 +11,21 @@ draft: false
 
 El 7 de septiembre de 2021 entra en vigencia la normativa que convierte a El Salvador en el primer país en declarar a Bitcoin como moneda de curso legal.
 
+{{< image src="/images/efemerides/7-septiembre.png" caption="" alt="Captura de la primera página de Diario El Salvador" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Primera página de la primera página de El Salvador" webp="false" >}}
+
 A un año del evento, se calculó que la penetración del uso de Lightning Network es del 20%. Esto con todo y que la billetera oficial, ‘Chivo’, sigue presentando problemas de uso.
 
 El país centroamericano posee una cantidad indeterminada de bitcoin como parte de su tesoro nacional, porque no hay cifras oficiales. Tampoco hay cifras oficiales de cuantas de esas monedas se vendieron.
 
 Más de 40 inversionistas de bitcoin han manifestado su interés en desarrollar proyectos en El Salvador. Algunos apuntan hacia el turismo, y otros planean iniciar la construcción de una nueva industria de inversión bancaria, basada en bitcoin.
+
+{{< accordion "Fuentes" >}}
+
+- <https://diarioelsalvador.com/el-salvador-llega-primero-a-la-era-del-bitcoin/131121/>
+- <https://bitcoinmagazine.com/technical/lightning-ballooned-since-el-salvador-bitcoin-bet>
+- <https://www.criptonoticias.com/comunidad/adopcion/adopcion-bitcoin-salvador-significa-pais-habitantes/>
+
+{{< /accordion >}}
 
 ## 08-09-2014: Correo de Satoshi fue comprometido
 
