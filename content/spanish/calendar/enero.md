@@ -9,19 +9,19 @@ draft: false
 
 ## 03-01-2009: Bloque Génesis
 
-El 3 de enero de 2009 fue minado el primer bloque de la red Bitcoin, conocido como ‘Bloque Génesis’.
+El 3 de enero de 2009 fue minado el primer bloque de la red Bitcoin, conocido como "Bloque Génesis".
 
 {{< image src="/images/efemerides/3-enero.png" caption="" alt="Captura del bloque génesis en mempool.space" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Vista del bloque génesis en un explrador de bloques" webp="false" >}}
 
 El bloque solo contiene la transacción que genera los primeros 50 BTC y es el único que no tiene un bloque que le preceda, por lo que fue necesario modificar algunos parámetros, exclusivamente para él.
 
-Esos primeros 50 bitcoin fueron a la dirección 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+Esos primeros 50 bitcoin fueron a la dirección `1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa`.
 
 El bloque fue minado por Satoshi Nakamoto y contiene el titular del periódico ‘The Times’ del 3 de enero de 2009, como prueba de no haber sido preminado, dejando un comentario sobre la inestabilidad causada por la banca de reserva fraccionaria.
 
 El titular de ese día reporta “El Canciller (británico) está considerando un segundo programa de rescate a la banca”. El sistema financiero hace agua y Bitcoin llega para ofrecer una salida.
 
-{{< image src="/images/efemerides/3-enero-2.png" caption="" alt="Fotografía de la portada del Times de Londres" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="La portada del Times de Londres enmarcada" webp="false" >}}
+{{< image src="/images/efemerides/3-enero-2.png" caption="" alt="Fotografía de la portada del Times de Londres" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="La portada del Times de Londres enmarcada" webp="false" >}}
 
 Los 50 bitcoin que contiene el bloque jamás han sido movidos y no se podrán mover nunca por una particularidad en el código. Se desconoce si Satoshi hizo esto a propósito o si fue accidental.
 
@@ -29,7 +29,7 @@ Desde que se minó el bloque hasta que se lanzó el software transcurrieron seis
 
 Lo cierto es que el 3 de enero de 2009 empezó una revolución silenciosa que, años después, cambiaría el panorama económico mundial.
 
-P.S: les dejamos una entrevista imaginaria con Satoshi Nakamoto (https://proyectobitcoin.com/es/blog/entrevista-satoshi-nakamoto-creador-bitcoin/)
+P.S: les dejamos una entrevista imaginaria con Satoshi Nakamoto: [Mi entrevista con Satoshi Nakamoto, creador Bitcoin](https://proyectobitcoin.com/es/blog/entrevista-satoshi-nakamoto-creador-bitcoin/).
 
 {{< accordion "Fuentes" >}}
 
@@ -42,11 +42,11 @@ P.S: les dejamos una entrevista imaginaria con Satoshi Nakamoto (https://proyect
 
 ## 06-01-2015: Robo a Bitsatmp
 
-El 6 de enero de 2015, la casa de intercambio Bitstamp anunció que paralizaría temporalmente el servicio mientras investigaban un ataque informático que resultó en el robo de su cartera caliente con unos 19 000 bitcoin.
+El 6 de enero de 2015, la casa de intercambio Bitstamp anunció que paralizaría temporalmente el servicio mientras investigaban un ataque informático que resultó en el robo de su cartera caliente con unos 19.000 bitcoin.
 
-{{< image src="/images/efemerides/6-enero-1.png" caption="" alt="Logo de la casa de cambios Bitsamp" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Logo del exchange Bitstamp" webp="false" >}}
+{{< image src="/images/efemerides/6-enero-1.png" caption="" alt="Logo de la casa de cambios Bitsamp" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Logo del exchange Bitstamp" webp="false" >}}
 
-El robo representaba unos 5 millones de dólares en el momento (276 USD/BTC).Bitstamp pidió a sus clientes no realizar depósitos en ninguna de las direcciones previamente utilizadas por la casa de cambio hasta no determinar cuáles habían sido comprometidas y cuáles no
+El robo representaba unos 5 millones de dólares en el momento (276 USD/BTC).Bitstamp pidió a sus clientes no realizar depósitos en ninguna de las direcciones previamente utilizadas por la casa de cambio hasta no determinar cuáles habían sido comprometidas y cuáles no.
 
 Justo un año antes, había ocurrido el colapso de Mt Gox, por lo que la paralización del servicio generó nerviosismo, Bitstamp aseguró que los fondos de los clientes estaban asegurados y que tenía suficiente liquidez. El servicio se reanudó normalmente tres días después, el 9 de enero.
 
@@ -54,7 +54,7 @@ En los estudios posteriores al ataque se determinó que el delincuente responsab
 
 Lo logró, finalmente, en la tarde del 4 de enero.
 
-En los registros en cadena de la dirección del atacante (1L2JsXHPMYuAa9ugvHGLwkdstCPUDemNCf) se puede ver la sucesión de retiros con comisiones inusualmente altas, entre las transacciones regulares del exchange.
+En los registros en cadena de la dirección del atacante (`1L2JsXHPMYuAa9ugvHGLwkdstCPUDemNCf`) se puede ver la sucesión de retiros con comisiones inusualmente altas, entre las transacciones regulares del exchange.
 
 Con todo, la dirección presenta movimientos hasta julio del 2020, [con el último retiro grande en 2019](https://mempool.space/es/address/1L2JsXHPMYuAa9ugvHGLwkdstCPUDemNCf)
 
@@ -73,11 +73,11 @@ Con todo, la dirección presenta movimientos hasta julio del 2020, [con el últi
 
 El 9 de enero de 2009 se lanza el primer cliente de software de código abierto para correr nodos de Bitcoin, a través de la plataforma SourceForge.
 
-{{< image src="/images/efemerides/9-enero.png" caption="" alt="Captura del anuncio de lanzamiento del código de Bitcoin" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Anuncio del lanzamiento del codigo de Bitcoin en SourceForge" webp="false" >}}
+{{< image src="/images/efemerides/9-enero.png" caption="" alt="Captura del anuncio de lanzamiento del código de Bitcoin" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Anuncio del lanzamiento del codigo de Bitcoin en SourceForge" webp="false" >}}
 
 El anuncio lo hizo Satoshi Nakamoto en la lista de correos el mismo día: 
 
-> Anunciando el lanzamiento de la primera versión de Bitcoin, un nuevo efectivo electrónico que utiliza una red peer-to-peer para evitar el doble gasto. Completamente descentralizado sin servidor ni autoridad central. El software aún es alfa y experimental. No hay garantía de que el sistema no deba ser reiniciado en algún momento si se hace necesario, aunque he hecho todo lo posible para construir en extensibilidad y control de versiones hice la dificultad de la prueba de trabajo ridículamente fácil para empezar, así que durante un tiempo, al principio, una PC típica podrá generar monedas en tan solo unas horas. Será mucho más difícil cuando la competencia haga que el ajuste automático aumente la dificultad.
+>_Anunciando el lanzamiento de la primera versión de Bitcoin, un nuevo efectivo electrónico que utiliza una red peer-to-peer para evitar el doble gasto. Completamente descentralizado sin servidor ni autoridad central. El software aún es alfa y experimental. No hay garantía de que el sistema no deba ser reiniciado en algún momento si se hace necesario, aunque he hecho todo lo posible para construir en extensibilidad y control de versiones hice la dificultad de la prueba de trabajo ridículamente fácil para empezar, así que durante un tiempo, al principio, una PC típica podrá generar monedas en tan solo unas horas. Será mucho más difícil cuando la competencia haga que el ajuste automático aumente la dificultad._
 
 Hasta ese momento, el único minero de Bitcoin era Satoshi.
 
@@ -97,13 +97,13 @@ Finney comentó la transacción años después, en 2013, en el foro Bitcointalk,
 
 {{< image src="/images/efemerides/11-enero-2.png" caption="" alt="Captura del post Bitcoin y Yo de Hal Finney" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Relato de Hal Finney de los primeros dias de Bitocin" webp="false" >}}
 
-En el texto, Finney declaró: 
+En el texto, Finney declaró:
 
->“Cuando Satoshi anunció el primer lanzamiento del software, lo tomé de inmediato. Creo que fui la primera persona, además de él mismo, en ejecutar bitcoin, Miné el bloque 70 y tantos, y fui el destinatario de la primera transacción de bitcoin, cuando Satoshi me envió diez monedas como prueba. Mantuvimos una conversación por correo electrónico durante los siguientes días, principalmente yo reportando errores y él arreglándolos.”
+>_Cuando Satoshi anunció el primer lanzamiento del software, lo tomé de inmediato. Creo que fui la primera persona, además de él mismo, en ejecutar bitcoin, Miné el bloque 70 y tantos, y fui el destinatario de la primera transacción de bitcoin, cuando Satoshi me envió diez monedas como prueba. Mantuvimos una conversación por correo electrónico durante los siguientes días, principalmente yo reportando errores y él arreglándolos._
 
 Hal Finney murió en Phoenix, a los 58 años, el 28 de agosto de 2014 y fue criopreservado por la Alcor Life Extension Foundation.
 
-{{< image src="/images/efemerides/10-enero-2009.png" caption="" alt="Tuit de  Hal Finney" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Hal Finney anuncia que se unió a Bitocin" webp="false" >}}
+{{< image src="/images/efemerides/10-enero-2009.png" caption="" alt="Tuit de  Hal Finney" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Hal Finney anuncia que se unió a Bitocin" webp="false" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -120,14 +120,19 @@ Hal Finney murió en Phoenix, a los 58 años, el 28 de agosto de 2014 y fue crio
 
 El 19 de enero de 2019 @hodlonaut inició la cadena de confianza Lightning Torch, pensada primero como un juego, dirigido a ofrecer la experiencia de pagos en LN dentro de la comunidad y difundir el uso de la solución de segunda capa.
 
-{{< image src="/images/efemerides/19-enero.png" caption="" alt="Tuit de @hodlonaut dando partida a la antorcha de LN" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Captura del inicio de la antorcha de Lightning Network" webp="false" >}}
+{{< image src="/images/efemerides/19-enero.png" caption="" alt="Tuit de @hodlonaut dando partida a la antorcha de LN" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Captura del inicio de la antorcha de Lightning Network" webp="false" >}}
 
-El para entonces desconocido @hodlonaut escribió: “Un poco de diversión LN.
+El para entonces desconocido @hodlonaut escribió: 
 
-- Envío 100k sats con http://tippin.me a la primera persona en la que elijo confiar que responda a esto.
-- Esa persona agrega 10k sats y envía 110k a alguien (ya sea respondiendo a un nuevo tweet o este hilo)
-.. y así
-¿Cuántos sats antes de que se rompa?”
+>_Un poco de diversión LN._
+>
+>\- _Envío 100k sats con http://tippin.me a la primera persona en la que elijo confiar que responda a esto._
+>
+>\- _Esa persona agrega 10k sats y envía 110k a alguien (ya sea respondiendo a un nuevo tweet o este hilo)_
+>
+>_.. y así_
+>
+>_¿Cuántos sats antes de que se rompa?”_
 
 En el experimento participaron personalidades como Andreas Antonopoulos, el cofundador de Twitter, Jack Dorsey, Adam Back y Matt Odell.
 
@@ -158,7 +163,7 @@ El 11 de abril de 2019 los fondos fueron entregados a @btcven, luego de recorrer
 
 El 25 de enero de 2016 la potencia de minería superó, por primera vez, 1 exahash/segundo.
 
-{{< image src="/images/efemerides/25-enero.png" caption="" alt="Gráfico de la potencia de minado" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Captura del grafico de incremento de la potencia de minado" webp="false" >}}
+{{< image src="/images/efemerides/25-enero.png" caption="" alt="Gráfico de la potencia de minado" height="" width="940" position="center" command="" option="q100" class="img-fluid" title="Captura del grafico de incremento de la potencia de minado" webp="false" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -172,11 +177,12 @@ El 25 de enero de 2016 la potencia de minería superó, por primera vez, 1 exaha
 
 El 29 de enero de 2009 el usuario de Twitter @fafcffacfff publicó el segundo tuit mencionando a Bitcoin, con el anuncio de la v0.1.2.
 
-{{< image src="/images/efemerides/29-enero-2009.png" caption="" alt="Captura del segundo tuit mencionando a Bitcoin" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Anuncio de la versión 0.1.2 de Bitcoin" webp="false" >}}
+{{< image src="/images/efemerides/29-enero-2009.png" caption="" alt="Captura del segundo tuit mencionando a Bitcoin" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Anuncio de la versión 0.1.2 de Bitcoin" webp="false" >}}
 
 {{< accordion "Fuentes" >}}
 
 - <https://twitter.com/fafcffacfff/status/1158416742>
 
 {{< /accordion >}}
+
 <hr>
