@@ -29,10 +29,11 @@ Así se veía la gráfica de precios de ese año.
 
 El 8 de junio de 2021, se sanciona la ley que convierte a Bitcoin en moneda de curso legal por primera vez, luego de que el congreso de El Salvador votara a favor la solicitud de Ley introducida por el presidente Nayib Bukele.
 
-(Captura)
+{{< image src="images/efemerides/8-junio.png" caption="" alt="" height="" width="640" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
+
 La propuesta de ley había sido introducida el mismo día, 62 de los 84 diputados del país votaron a favor, 19 en contra y tres abstenciones.
 
-(Captura)
+{{< image src="images/efemerides/8-junio-2.png" caption="" alt="" height="" width="640" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 La ley establece:
 
@@ -42,8 +43,6 @@ La ley establece:
 - Los intercambios no están sujetos a impuestos sobre las ganancias, al no tratarse de un activo, sino una moneda.
 - El dólar norteamericano se mantiene como referencia para efectos contables
 - Es de aceptación obligatoria
-
-(Captura)
 
 {{< accordion "Fuentes" >}}
 
@@ -58,28 +57,33 @@ La ley establece:
 
 El 11 de junio de 2011 Gavin Andresen crea la primera faucet de Bitcoin.
 
-En el mensaje se puede leer: “Para mi primer proyecto de desarrollo para Bitcoin, decidí hacer algo que suena realmente tonto: creé un sitio web que regala Bitcoins… “
+{{< image src="images/efemerides/11-junio-1.png" caption="" alt="" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-(Gif de un grifo)
+{{< image src="images/efemerides/gif-grifo.gif" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-“…Cinco ฿ por cliente, por orden de llegada, lo he abastecido con ฿1.100 para empezar. Agregaré más una vez que esté seguro de que funciona correctamente.
-¿Por qué? Porque quiero que el proyecto de Bitcoin tenga éxito, y creo que es más probable que lo sea si la gente puede obtener un puñado de monedas para probarlo”
+En el mensaje se puede leer:
 
-(Gif de arrojar dinero)
+>_Para mi primer proyecto de desarrollo para Bitcoin, decidí hacer algo que suena realmente tonto: creé un sitio web que regala Bitcoins._
+>
+>_Cinco ฿ por cliente, por orden de llegada, lo he abastecido con ฿ 1.100 para empezar. Agregaré más una vez que esté seguro de que funciona correctamente._
+>
+>_¿Por qué? Porque quiero que el proyecto de Bitcoin tenga éxito, y creo que es más probable que lo sea si la gente puede obtener un puñado de monedas para probarlo._
 
-La URL del sitio era https://freebitcoins.appspot.com/ (ya no funciona, no se molesten xD).
+{{< image src="images/efemerides/gif-dinero.gif" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-(Gif de manguera seca)
+La URL del sitio era <https://freebitcoins.appspot.com/> (ya no funciona, no se molesten xD).
 
-Una semana después, Satoshi mismo le respondió: “Excelente elección de un primer proyecto, buen trabajo. Había planeado hacer exactamente esto si alguien más no lo hacía, porque puede volverse demasiado difícil para los mortales generar 50 BTC,…
+{{< image src="images/efemerides/gif-sin-agua.gif" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-…los nuevos usuarios pueden obtener algunas monedas para jugar de inmediato. Las donaciones deberían poder mantenerlo lleno.”
+Una semana después, Satoshi mismo le respondió:
 
-(Captura de bitcointalk https://bitcointalk.org/index.php?topic=183.msg1620#msg1620)
+{{< image src="images/efemerides/11-junio-2.png" caption="[Fuente: bitcointalk](https://bitcointalk.org/index.php?topic=183.msg1620#msg1620)" alt="" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
+
+>_Excelente elección de un primer proyecto, buen trabajo. Había planeado hacer exactamente esto si alguien más no lo hacía, porque puede volverse demasiado difícil para los mortales generar 50 BTC, los nuevos usuarios pueden obtener algunas monedas para jugar de inmediato. Las donaciones deberían poder mantenerlo lleno._
 
 Satoshi, ya en ese entonces, se preocupaba por la privacidad: “Debes poner una dirección de bitcoin de donación en la página para aquellos que quieran agregarle fondos, que idealmente debería actualizarse a una nueva dirección cada vez que reciba algo.”
 
-Gavin Andresen es un desarrollador de software conocido por estar involucrado en el desarrollo de Bitcoin desde etapas tempranas y colaborador de Bitcointalk desde 2010. 
+Gavin Andresen es un desarrollador de software conocido por estar involucrado en el desarrollo de Bitcoin desde etapas tempranas y colaborador de Bitcointalk desde 2010.
 
 En 2012 inició la Fundación Bitcoin para apoyar y nutrir el desarrollo de la criptomoneda. Fue designado? por Satoshi para dirigir desarrollo del software de cliente para la red bitcoin que luego se convertiría en Bitcoin Core.
 
@@ -97,7 +101,7 @@ Desde 2017 Andresen se declaró afín a BCash, la moneda resultante del primer h
 
 El 14 de junio de 2011, WikiLeaks anuncia que empezará a aceptar donaciones en bitcoin.
 
-Capture
+{{< image src="images/efemerides/14-junio-1.png" caption="" alt="" height="" width="640" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 En los seis meses previos, el controvertido sitio web de denuncias vio bloqueadas sus donaciones vía Visa, Mastercard y Bank of America
 
@@ -108,6 +112,8 @@ En tales circunstancias, tornarse a este experimento incipiente que ganaba adept
 El movimiento preocupó gravemente a Satoshi Nakamoto, que temía que bitcoin no estuviera listo para la enormidad del reto.
 
 Su último mensaje en foros lo dedicó al tema: “Hubiera sido bueno recibir esta atención en cualquier otro contexto. WikiLeaks ha pateado el nido de avispas, y el enjambre se dirige hacia nosotros.”
+
+{{< image src="images/efemerides/14-junio-2.png" caption="" alt="" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 Satoshi Nakamoto nunca más participó en ninguna discusión en foros luego de ese comentario.
 
@@ -130,7 +136,7 @@ La dirección publicada hizo un total de 26.673 transacciones y recibió más de
 
 El 16 de junio de 2011 se reportó el primer malware que afectaba a Bitcoin, un Troyano llamado Infostealer. Coinbit que afectó a las computadoras que funcionaban con Windows.
 
-(Captura)
+{{< image src="images/efemerides/16-junio-1.png" caption="" alt="" height="" width="640" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 El programa era bastante simple: ponía ceros en la ubicación estándar del archivo para una billetera bitcoin y luego enviaba por correo electrónico las llaves privadas al atacante a través de un servidor en Polonia.
 
@@ -153,11 +159,9 @@ El primer robo de Bitcoin fue reportado esa semana por un usuario que afirmó qu
 
 El 17 de junio de 2021 Bitcoin llega a los 420 obituarios en la página 99bitcoins.com
 
-(captura)
+{{< image src="images/efemerides/17-junio-1.png" caption="" alt="" height="" width="640" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-El obituario más reciente incluido en el recuento fue el 1.º de junio, se titula ‘Crypto-assets Are A Catastrophe’ y fue publicado en Concerned.tech
-
-(captura)
+El obituario más reciente incluido en el recuento fue el 1º de junio, se titula _"Crypto-assets Are A Catastrophe"_ y fue publicado en Concerned.tech.
 
 Hasta el día de hoy, Bitcoin ha muerto 452 veces.
 
@@ -170,6 +174,8 @@ Hasta el día de hoy, Bitcoin ha muerto 452 veces.
 ## 23-06-1912: Natalicio de Alan Turing, padre de la informática moderna
 
 El 23 de junio de 1912 nace, en Londres, Alan Mathison Turing; Matemático, informático, criptógrafo, filósofo, a Turing se lo considera uno de los padres de la ciencia de la computación y precursor de la informática moderna.
+
+{{< image src="images/efemerides/23-junio-1-Turing.jpg" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title="Alan Turing"  webp="false" >}}
 
 Inventó la idea de una 'Máquina Universal' que podría decodificar y ejecutar cualquier conjunto de instrucciones. Diez años más tarde convertiría esta idea revolucionaria en un plan práctico para una computadora electrónica, capaz de ejecutar cualquier programa.
 
@@ -190,7 +196,7 @@ En marzo de 1946, Turing produjo un diseño detallado para lo que se denominó M
 
 El 25 de junio de 2011 MyBitcoin.com publicó un comunicado en el sitio donde anunciaban tener algunos problemas. A finales de julio salió de línea en lo que, se cree, fue el primer exit scam para la criptomoneda.
 
-captura 25-junio-1024x467.png
+{{< image src="images/efemerides/25-junio-1.png" caption="" alt="" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Alan Turing"  webp="false" >}}
 
 Fue uno de los primeros proveedores de billeteras electrónicas para Bitcoin, dirigida a usuarios novatos, con una interfaz amigable.En este primer anuncio informaban que habían bloqueado algunas cuentas y cambiado las contraseñas de otras, debido a reportes de que algunos de sus usuarios habían sido comprometidos en el hackeo a MtGox. Todos los comunicados fueron firmados por “Tom Williams, operador de MyBitcoin.com”. El nombre, se supo después, era el seudónimo de un personaje aún desconocido.
 

@@ -40,9 +40,7 @@ Para 1934, Estados Unidos (que aún utilizaba el patrón oro) elevó el valor de
 
 Este precio continuó vigente hasta 1971, cuando Richard Nixon declaró el fin de la convertibilidad, abandonando así definitivamente el patrón oro para las transacciones en el extranjero.
 
-<div align="center">
-<div class="tenor-gif-embed" data-postid="17083965" data-share-method="host" data-aspect-ratio="1" data-width="30%"><a href="https://tenor.com/view/richard-nixon-nixon-president-smile-happy-gif-17083965">Richard Nixon President GIF</a>from <a href="https://tenor.com/search/richard+nixon-gifs">Richard Nixon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+{{< image src="images/efemerides/richard-nixon-nixon.gif" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 ¡Et voilà!. Así es que se hacen negocios si eres gobierno y la moneda es tuya.
 
