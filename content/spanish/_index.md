@@ -3,7 +3,7 @@
 banner:
   title: "Aprende Bitcoin Fácil"
   content: "Bitcoin no es solo para expertos. Es una herramienta de libertad sin la cual tu educación financiera está incompleta. Creamos este espacio para facilitar el acceso a este conocimiento de forma sencilla, práctica, gratuita y en español."
-  image: "/images/banner-home.png"
+  image: "/images/banner-home-ok.png"
   button:
     enable: true
     label: "Comienza"
@@ -20,7 +20,7 @@ features:
       - "Primeros pasos"
     button:
       enable: true
-      label: "Ir a nivel básico"
+      label: "nivel básico"
       link: "/es/abc-de-bitcoin/"
 
   - title: "Aprende más"
@@ -32,7 +32,7 @@ features:
       - "Corre tu propio nodo"
     button:
       enable: true
-      label: "Ir a nivel intermedio"
+      label: "nivel intermedio"
       link: "/es/intermedio"
       
   - title: "Mentorías personalizadas"
@@ -47,6 +47,13 @@ features:
       label: "solicitar"
       link: "/es/contact"      
 
-# Recent post
+# Calendar
+  - title: "Calendario de Efemérides"
+    image: "/images/efemerides-hompage-500x500.png"
+    content: "Descubre las fechas clave que marcaron la historia de Bitcoin, mes a mes. En nuestro calendario de efemerides 'Tal dia como hoy', encontrarás cada evento explicado y contextualizado, con imágenes y referencias, para que te sumerjas en la historia de la primera criptomoneda."
+    button:
+      enable: true
+      label: "calendario"
+      link: "/es/calendar"   
 
 ---
