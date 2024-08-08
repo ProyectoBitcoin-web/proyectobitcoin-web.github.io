@@ -1,7 +1,7 @@
 ---
 title: "Marzo"
-meta_title: "Efemérides de Bitcoin de marzo"
-description: "Todas las fechas significativas de la historia de Bitcoin en marzo"
+meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
+description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/azul.jpg"
 date: 2024-07-29T00:21:57-04:00
 draft: false
@@ -11,7 +11,7 @@ draft: false
 
 El primero de marzo de 2011 un nuevo mercado anónimo se anuncia en Bitcointalk: **Silkroad**.
 
-{{< image src="/images/efemerides/1-marzo.png" caption="" alt="Captura del anuncio de Silkroad en Bitcoin en Bitcointalk" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Nacimiento de Silkroad"  webp="false" >}}
+{{< image src="/images/efemerides/1-marzo.png" caption="" alt="Captura del anuncio de Silkroad en Bitcoin en Bitcointalk" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Nacimiento de Silkroad"  webp="false" >}}
 
 Para ese momento llevaba tres semanas funcionando (según el post) y llevaba la bicoca de 28 (¡!) transacciones
 
@@ -26,7 +26,7 @@ Para ese momento llevaba tres semanas funcionando (según el post) y llevaba la 
 
 El 6 de marzo de 2011 el hashrate de la red de Bitcoin alcanzó un nuevo máximo de casi 900 Ghash/seg durante un breve período de tiempo, cayendo a 500 Ghash/seg poco después.
 
-{{< image src="/images/efemerides/6-marzo.png" caption="" alt="Captura de gráfico de hashrate" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Hashrate de Bitcoin"  webp="false" >}}
+{{< image src="/images/efemerides/6-marzo.png" caption="" alt="Captura de gráfico de hashrate" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Hashrate de Bitcoin"  webp="false" >}}
 
 En el momento se especuló que se debió a alguna (o varias) supercomputadora(s) o bots que se unieron, y luego abandonaron, la red. Se lo llamó “El minero Misterioso”.
 
@@ -44,7 +44,7 @@ Como consecuencia, la dificultad de minado aumentó, para caer un 10% en el sigu
 
 En marzo del 2017, el número de proyectos en el repositorio GitHub, relacionados con Bitcoin, superó los 10.000.
 
-{{< image src="/images/efemerides/8-marzo.png" caption="" alt="Captura del artículo de Bitcoin.com" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Repositorios de Bitcoin alcanzan los 10.000"  webp="false" >}}
+{{< image src="/images/efemerides/8-marzo.png" caption="" alt="Captura del artículo de Bitcoin.com" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Repositorios de Bitcoin alcanzan los 10.000"  webp="false" >}}
 
 Para el 8 de marzo de 2017, Bitcoin tenía 7.535 proyectos bifurcados de la conversación principal en GitHub: carteras, propuestas de altcoins, exchanges, trading bots y otros desarrollos derivados.
 
@@ -56,7 +56,7 @@ Entre los proyectos relacionados con Bitcoin más populares estaban: el libro de
 
 El 6 marzo de 2023 la cifra ha subido a 64.533 repositorios.
 
-{{< image src="/images/efemerides/8-marzo-2.png" caption="" alt="Captura de la búsqueda 'Bitcoin' en GitHub" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Repositorios de Bitcoin en marzo de 2023"  webp="false" >}}
+{{< image src="/images/efemerides/8-marzo-2.png" caption="" alt="Captura de la búsqueda 'Bitcoin' en GitHub" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Repositorios de Bitcoin en marzo de 2023"  webp="false" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -69,7 +69,7 @@ El 6 marzo de 2023 la cifra ha subido a 64.533 repositorios.
 
 El 9 de marzo de 1993 es la fecha que aparece al pie del Manifiesto Cypherpunk, firmado por Eric Hughes
 
-{{< image src="/images/efemerides/9-marzo.png" caption="" alt="Captura del Manifiesto Cypherpunk" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Manifiesto Cypherpunk por Eric Hughes"  webp="false" >}}
+{{< image src="/images/efemerides/9-marzo.png" caption="" alt="Captura del Manifiesto Cypherpunk" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Manifiesto Cypherpunk por Eric Hughes"  webp="false" >}}
 
 “La privacidad es necesaria para una sociedad abierta en la era electrónica. (...) La privacidad es el poder de revelarse selectivamente al mundo.
 (...)Así pues, la privacidad en una sociedad abierta requiere sistemas anónimos para efectuar transacciones.”
@@ -86,9 +86,9 @@ Ese grupo terminó alojando la propuesta de Satoshi de un dinero electrónico qu
 
 {{< accordion "Fuentes" >}}
 
-- <https://www.activism.net/cypherpunk/manifesto.html
-- <https://medium.com/@rootsec/un-manifiesto-cypherpunk-por-eric-hughes-3aa4660af977
-- <https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)
+- <https://www.activism.net/cypherpunk/manifesto.html>
+- <https://medium.com/@rootsec/un-manifiesto-cypherpunk-por-eric-hughes-3aa4660af977>
+- <https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)>
 - <https://bitcoinmagazine.com/culture/crypto-art-of-resistance-remember-remember-the-legacy-of-the-cypherpunks>
 - <https://twitter.com/alfremancera/status/1372167401995898881>
 
@@ -98,7 +98,7 @@ Ese grupo terminó alojando la propuesta de Satoshi de un dinero electrónico qu
 
 El 10 de marzo de 2011, el usuario de Bitcointalk Andreas Schildbach propuso el primer monedero de Bitcoin para Android
 
-{{< image src="/images/efemerides/10-marzo-1.png" caption="" alt="Captura del anuncio del primer monedero sobre Android" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Primer monedero movil de Bitcoin"  webp="false" >}}
+{{< image src="/images/efemerides/10-marzo-1.png" caption="" alt="Captura del anuncio del primer monedero sobre Android" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Primer monedero movil de Bitcoin"  webp="false" >}}
 
 Ya para el momento se propuso el escaneo de un código QR para el intercambio de la dirección, pero la aplicación usaba la app de Google para hacer la lectura.
 
@@ -107,7 +107,7 @@ En el hilo de la propuesta, en el foro, los participantes se preguntaban cosas t
 
 El monedero tiene, para este momento, más de cinco millones de descargas en la Play Store y @walletscrutiny pudo auditar y confirmar que el binario que se provee coincide con el código.
 
-{{< image src="/images/efemerides/10-marzo-2.png" caption="" alt="Captura de la prueba de walletscrutiny.com del código" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Primer monedero movil de Bitcoin. Prueba de seguridad"  webp="false" >}}
+{{< image src="/images/efemerides/10-marzo-2.png" caption="" alt="Captura de la prueba de walletscrutiny.com del código" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Primer monedero movil de Bitcoin. Prueba de seguridad"  webp="false" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -120,12 +120,11 @@ El monedero tiene, para este momento, más de cinco millones de descargas en la 
 
 El 11 de marzo de 2013, un error en el código de la actualización 0.8 de Bitcoin genera una bifurcación fuerte en la cadena. Durante seis horas la red trabajó sobre dos blockchains con reglas de consenso diferentes.
 
-{{< image src="/images/efemerides/11-marzo-1.png" caption="" alt="Captura del reporte de error en bitcoin.org" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="error en la version 0.8"  webp="false" >}}
+{{< image src="/images/efemerides/11-marzo-1.png" caption="" alt="Captura del reporte de error en bitcoin.org" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="error en la version 0.8"  webp="false" >}}
 
 Según el reporte del momento, lo que ocurrió fue:
 
 >“Un minero de bitcoin que ejecutaba la versión 0.8.0 creó un bloque grande (el 225.430) que era incompatible con versiones anteriores del código de Bitcoin.
-
 >El resultado fue una bifurcación de la cadena de bloques, con un grupo de mineros, comerciantes y usuarios ejecutando la nueva versión, aceptando y construyendo sobre ese bloque, y otro grupo de mineros, comerciantes y usuarios ejecutando versiones anteriores, rechazando el bloque y creando su propia cadena. El problema se solventó cuando se pidió a los pools de minería que volvieran a la versión 0.7”.
 
 Como consecuencia hubo una venta masiva, que trajo una caída del precio del 23% (a 37 dólares por moneda) recuperándose al anterior 47 USD/BTC a las pocas horas.
@@ -162,7 +161,7 @@ Militante de diversas causas civiles, abogó siempre por la inclusión de más m
 
 El 12 de marzo de 2020 ocurre el Corona Flash Crash, en el que, a raíz de la declaración mundial de pandemia por el coronavirus, el precio de Bitcoin cayó un 50% en dos días.
 
-{{< image src="/images/efemerides/12-marzo-1b.png" caption="" alt="Captura CNBC con la caída del precio" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Titular 'Bitcoin cae 50%'"  webp="false" >}}
+{{< image src="/images/efemerides/12-marzo-1b.png" caption="" alt="Captura CNBC con la caída del precio" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Titular 'Bitcoin cae 50%'"  webp="false" >}}
 
 Desde el 8 de marzo hasta el 12 de marzo de 2020, el precio de Bitcoin cayó un 30%, de USD 8.901 a USD 6.206. Para octubre del mismo año, Bitcoin valía aproximadamente USD 13.200.
 
@@ -227,7 +226,7 @@ En el período comprendido entre febrero y abril del 2011 la paridad fue alcanza
 
 El 18 de marzo del año 2013 la agencia federal de los Estados Unidos encargada de las leyes contra el lavado de dinero (FinCEN) declara que los usuarios de Bitcoin están sujetos a regulación solo en el momento del intercambio USD-BTC
 
-{{< image src="/images/efemerides/18-marzo-1.png" caption="" alt="Captura de comunicado de FinCEN" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Declacion de la FinCEN sobre Bitcoin"  webp="false" >}}
+{{< image src="/images/efemerides/18-marzo-1.png" caption="" alt="Captura de comunicado de FinCEN" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Declacion de la FinCEN sobre Bitcoin"  webp="false" >}}
 
 En la normativa no se menciona a Bitcoin por su nombre, pero no quedaron dudas de a que se refería el regulador con “moneda virtual descentralizada".
 
@@ -247,7 +246,7 @@ Se ve que la FinCEN desde el principio tuvo problemas con la idea de que Bitcoin
 
 El 19 de marzo de 2013 Hal Finney publica “Bitcoin and me”, donde cuenta parte de su trayectoria con la criptomoneda y Satoshi Nakamoto, además de su vida luego del diagnóstico de ELA (Esclerosis Lateral Amiotrófica)
 
-{{< image src="/images/efemerides/19-marzo-1.png" caption="" alt="Captura de post en Bitcointalk" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Escrito de Hal Finney"  webp="false" >}}
+{{< image src="/images/efemerides/19-marzo-1.png" caption="" alt="Captura de post en Bitcointalk" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Escrito de Hal Finney"  webp="false" >}}
 
 Hoy, hace 10 años, uno de los candidatos a ser Satoshi Nakamoto y uno de los pioneros fundadores de la lista de correos de cypherpunks donde primero se publicó la propuesta de la criptomoneda, publicó en Bitcointalk un escrito que ya es histórico: “Bitcoin y yo”
 
@@ -315,7 +314,7 @@ El 24 de marzo de 2009 es la fecha de creación, según la metadata del PDF que 
 
 El 30 de Marzo de 2010, en el foro Bitcointalk.org el usuario SmokeTooMuch intentó subastar 10.000 bitcoin por 50 dólares. La subasta cerró el 6 de abril sin tener comprador.
 
-{{< image src="/images/efemerides/30-marzo.png" caption="" alt="Captura de publicación en Bitcointalk" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Oferta de compra de 10.000 Bitcoin por 50 dólares"  webp="false" >}}
+{{< image src="/images/efemerides/30-marzo.png" caption="" alt="Captura de publicación en Bitcointalk" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Oferta de compra de 10.000 Bitcoin por 50 dólares"  webp="false" >}}
 
 La oferta establecía un intercambio en dos pasos: enviar primero 5.000 BTC, recibir el pago por Paypal y enviar el resto de las criptomonedas.El mismo día el usuario dwdolar ofreció 20 dólares por los 10.000 BTC.
 
@@ -337,5 +336,7 @@ La transacción mínima era de doscientos reales (R$ 200,00)
 - <https://en.bitcoin.it/wiki/Bitcoin_Brasil>
 
 {{< /accordion >}}
+
+{{< button label="Febrero" position="left" link="/calendar/febrero" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Abril" position="right" link="/calendar/abril" style="solid" >}}
 
 <hr>

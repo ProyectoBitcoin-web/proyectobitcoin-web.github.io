@@ -32,7 +32,7 @@ El 5 de abril de 1933 se firmó en Estados Unidos la Orden Ejecutiva 6102. El pr
 
 {{< image src="images/efemerides/5-abril-1.jpg" caption="" alt="Captura de la orden ejecutiva 6102" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Orden ejecutiva 6102"  webp="false" >}}
 
-El texto rezaba que “prohíbe el acaparamiento de monedas de oro, lingotes de oro y certificados de oro dentro de los Estados Unidos continentales" y obligaba a los ciudadanos a entregar a la Reserva Federal todo el oro del que dispusieran.
+El texto rezaba que se “prohíbe el acaparamiento de monedas de oro, lingotes de oro y certificados de oro dentro de los Estados Unidos continentales" y obligaba a los ciudadanos a entregar a la Reserva Federal todo el oro del que dispusieran.
 
 A cambio recibirían 20,67 dólares por cada onza entregada. Los infractores sufrirían multas de hasta 10.000 dólares, diez años de prisión, o ambas.
 
@@ -57,7 +57,7 @@ El 13 de abril de 2013 se presenta en el foro de Bitcointalk el criptonarquista 
 
 PoW es el protocolo usado por Satoshi Nakamoto para construir la función de minería de Bitcoin, y resolver el problema del doble gasto.
 
-{{< image src="images/efemerides/13-abril-1.png" caption="" alt="Captura de la presentación de Adam Back en Bitcointalk" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Saludo de Adam Back"  webp="false" >}}
+{{< image src="images/efemerides/13-abril-1.png" caption="" alt="Captura de la presentación de Adam Back en Bitcointalk" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Saludo de Adam Back"  webp="false" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -81,7 +81,7 @@ Para entonces, Andersen ya cumplía funciones como mantenedor principal del cód
 
 Tres días antes de este último mensaje, Satoshi escribió al desarrollador Mike Hearn la criptica frase: "Estoy pasando a otras cosas. Queda en buenas manos con Gavin y todo el mundo." Fue también la última vez que usó el correo satoshin@gmx.com.
 
-{{< image src="images/efemerides/26-abril-2.png" caption="Fuente: [Mike Hearn](https://pastebin.com/syrmi3ET)" alt="Captura del email" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Satoshi a Mike Hearn"  webp="false" >}}
+{{< image src="images/efemerides/26-abril-2.png" caption="Fuente: [Mike Hearn](https://pastebin.com/syrmi3ET)" alt="Captura del email" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Satoshi a Mike Hearn"  webp="false" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -95,7 +95,7 @@ Tres días antes de este último mensaje, Satoshi escribió al desarrollador Mik
 
 El 27 de abril de 2011 Gavin Andresen, para entonces ya mantenedor principal del código de Bitcoin y cabeza de Bitcoin Core, anuncia en Bitcointalk que irá a los cuarteles de la CIA a hablar de Bitcoin.
 
-{{< image src="images/efemerides/27-abril-1.png" caption="" alt="" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Gavin Andersen en bitcoin talk"  webp="false" >}}
+{{< image src="images/efemerides/27-abril-1.png" caption="" alt="" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Gavin Andersen en bitcoin talk"  webp="false" >}}
 
 En el mensaje, Andresen explica sus motivaciones para asistir a la invitación y deja claro que va como asesor, con sus viáticos y honorarios cubiertos.
 
@@ -118,5 +118,7 @@ Gracias a [@joc_ra](https://x.com/joc_ra) por el aporte. ❤️✨
 - <https://bitcointalk.org/index.php?topic=6652.0>
 
 {{< /accordion >}}
+
+{{< button label="Marzo" position="left" link="/calendar/marzo" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Mayo" position="right" link="/calendar/mayo" style="solid" >}}
 
 <hr>
