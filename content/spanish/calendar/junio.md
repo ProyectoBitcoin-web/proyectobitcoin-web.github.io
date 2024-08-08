@@ -71,7 +71,7 @@ En el mensaje se puede leer:
 
 {{< image src="images/efemerides/gif-dinero.gif" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-La URL del sitio era <https://freebitcoins.appspot.com/> (ya no funciona, no se molesten xD).
+La URL del sitio era <https://freebitcoins.appspot.com/> (ya no funciona, no se molesten 😜).
 
 {{< image src="images/efemerides/gif-sin-agua.gif" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title=""  webp="false" >}}
 
@@ -175,7 +175,7 @@ Hasta el día de hoy, Bitcoin ha muerto 452 veces.
 
 El 23 de junio de 1912 nace, en Londres, Alan Mathison Turing; Matemático, informático, criptógrafo, filósofo, a Turing se lo considera uno de los padres de la ciencia de la computación y precursor de la informática moderna.
 
-{{< image src="images/efemerides/23-junio-1-Turing.jpg" caption="" alt="" height="" width="320" position="center" command="" option="q100" class="img-fluid" title="Alan Turing"  webp="false" >}}
+{{< image src="images/efemerides/23-junio-1-Turing.jpg" caption="" alt="" height="" width="350" position="center" command="" option="q100" class="img-fluid" title="Alan Turing"  webp="false" >}}
 
 Inventó la idea de una 'Máquina Universal' que podría decodificar y ejecutar cualquier conjunto de instrucciones. Diez años más tarde convertiría esta idea revolucionaria en un plan práctico para una computadora electrónica, capaz de ejecutar cualquier programa.
 
