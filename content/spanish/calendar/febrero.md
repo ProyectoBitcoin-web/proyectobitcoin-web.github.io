@@ -165,4 +165,6 @@ El monto robado hoy tendría un valor superior a los 17 mil millones de dólares
 
 {{< /accordion >}}
 
+{{< button label="Enero" position="left" link="/calendar/enero" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Marzo" position="right" link="/calendar/marzo" style="solid" >}}
+
 <hr>

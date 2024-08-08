@@ -11,7 +11,7 @@ draft: false
 
 El 7 de septiembre de 2021 entra en vigencia la normativa que convierte a El Salvador en el primer país en declarar a Bitcoin como moneda de curso legal.
 
-{{< image src="/images/efemerides/7-septiembre.png" caption="" alt="Captura de la primera página de Diario El Salvador" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Primera página de la primera página de El Salvador" webp="false" >}}
+{{< image src="/images/efemerides/7-septiembre.png" caption="" alt="Captura de la primera página de Diario El Salvador" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Primera página de la primera página de El Salvador" webp="false" >}}
 
 A un año del evento, se calculó que la penetración del uso de Lightning Network es del 20%. Esto con todo y que la billetera oficial, ‘Chivo’, sigue presentando problemas de uso.
 
@@ -31,7 +31,7 @@ Más de 40 inversionistas de bitcoin han manifestado su interés en desarrollar 
 
 El 23 de abril de 2011 es la fecha de la última conversación desde la dirección satoshin@gmx.com. Tres años después, circularon algunas evidencias de que esa dirección estaría comprometida.
 
-{{< image src="images/efemerides/08-septiembre-1.png" caption="" alt="Captura del último mensaje enviado desde satoshin@gmx.com" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Satoshi al desarrollador Mike Hearn" webp="false" >}}
+{{< image src="images/efemerides/08-septiembre-1.png" caption="" alt="Captura del último mensaje enviado desde satoshin@gmx.com" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Satoshi al desarrollador Mike Hearn" webp="false" >}}
 
 Lo que se cree que ocurrió fue que el atacante logró hacerse con la dirección satoshi@vistomail.com y la registró primero en anonymousspeech.com, que habría caducado en septiembre de 2014.
 
@@ -43,11 +43,11 @@ Michael Marquardt (Theymos en Bitcoin Forum) dio aviso de la suplantación en un
 
 Cuando le preguntaron qué decía el mail, Theymos respondió con una cita: “Michael, envíame algunas monedas antes de que te ataque”.
 
-{{< image src="images/efemerides/08-septiembre-2.png" caption="" alt="Captura del último mensaje enviado desde satoshin@gmx.com" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Theymos" webp="false" >}}
+{{< image src="images/efemerides/08-septiembre-2.png" caption="" alt="Captura del último mensaje enviado desde satoshin@gmx.com" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Mensaje de Theymos" webp="false" >}}
 
 Una hora después, en el mismo hilo, se avisó que el atacante había escrito en el foro usando el seudónimo de Satoshi. En el post advertía al creador de Bitcoin que sus contraseñas y direcciones IP estaban siendo vendidas en la darknet.
 
-{{< image src="images/efemerides/08-septiembre-3.png" caption="" alt="Captura del mensaje del atacante" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Atacante publica mensaje en bitcointalk" webp="false" >}}
+{{< image src="images/efemerides/08-septiembre-3.png" caption="" alt="Captura del mensaje del atacante" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Atacante publica mensaje en bitcointalk" webp="false" >}}
 
 Este incidente jamás pasó a mayores, así que es de suponer que el atacante estaba troleando (o buscando que Satoshi saliera de su refugio).
 
@@ -60,5 +60,7 @@ Este incidente jamás pasó a mayores, así que es de suponer que el atacante es
 - <https://www.reddit.com/r/Bitcoin/comments/8evs1b/til_that_if_you_send_an_email_to_the_original/>
 
 {{< /accordion >}}
+
+{{< button label="Agosto" position="left" link="/calendar/agosto" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Octubre" position="right" link="/calendar/octubre" style="solid" >}}
 
 <hr>

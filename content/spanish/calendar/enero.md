@@ -25,7 +25,7 @@ El titular de ese día reporta “El Canciller (británico) está considerando u
 
 Los 50 bitcoin que contiene el bloque jamás han sido movidos y no se podrán mover nunca por una particularidad en el código. Se desconoce si Satoshi hizo esto a propósito o si fue accidental.
 
-Desde que se minó el bloque hasta que se lanzó el software transcurrieron seis días. Se presume que para comprobar y verificar la creación, pero solo Nakamoto podría darnos la certeza. 
+Desde que se minó el bloque hasta que se lanzó el software transcurrieron seis días. Se presume que para comprobar y verificar la creación, pero solo Nakamoto podría darnos la certeza.
 
 Lo cierto es que el 3 de enero de 2009 empezó una revolución silenciosa que, años después, cambiaría el panorama económico mundial.
 
@@ -75,7 +75,7 @@ El 9 de enero de 2009 se lanza el primer cliente de software de código abierto 
 
 {{< image src="/images/efemerides/9-enero.png" caption="" alt="Captura del anuncio de lanzamiento del código de Bitcoin" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Anuncio del lanzamiento del codigo de Bitcoin en SourceForge" webp="false" >}}
 
-El anuncio lo hizo Satoshi Nakamoto en la lista de correos el mismo día: 
+El anuncio lo hizo Satoshi Nakamoto en la lista de correos el mismo día:
 
 >_Anunciando el lanzamiento de la primera versión de Bitcoin, un nuevo efectivo electrónico que utiliza una red peer-to-peer para evitar el doble gasto. Completamente descentralizado sin servidor ni autoridad central. El software aún es alfa y experimental. No hay garantía de que el sistema no deba ser reiniciado en algún momento si se hace necesario, aunque he hecho todo lo posible para construir en extensibilidad y control de versiones hice la dificultad de la prueba de trabajo ridículamente fácil para empezar, así que durante un tiempo, al principio, una PC típica podrá generar monedas en tan solo unas horas. Será mucho más difícil cuando la competencia haga que el ajuste automático aumente la dificultad._
 
@@ -122,7 +122,7 @@ El 19 de enero de 2019 @hodlonaut inició la cadena de confianza Lightning Torch
 
 {{< image src="/images/efemerides/19-enero.png" caption="" alt="Tuit de @hodlonaut dando partida a la antorcha de LN" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Captura del inicio de la antorcha de Lightning Network" webp="false" >}}
 
-El para entonces desconocido @hodlonaut escribió: 
+El para entonces desconocido @hodlonaut escribió:
 
 >_Un poco de diversión LN._
 >
@@ -159,7 +159,7 @@ El 11 de abril de 2019 los fondos fueron entregados a @btcven, luego de recorrer
 
 {{< /accordion >}}
 
-## 25-01-2016: La potencia de minería superó 1 exahash/segundo.
+## 25-01-2016: La potencia de minería superó 1 exahash/segundo
 
 El 25 de enero de 2016 la potencia de minería superó, por primera vez, 1 exahash/segundo.
 
@@ -184,5 +184,7 @@ El 29 de enero de 2009 el usuario de Twitter @fafcffacfff publicó el segundo tu
 - <https://twitter.com/fafcffacfff/status/1158416742>
 
 {{< /accordion >}}
+
+{{< button label="Diciembre" position="left" link="/calendar/diciembre" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Febrero" position="right" link="/calendar/febrero" style="solid" >}}
 
 <hr>
