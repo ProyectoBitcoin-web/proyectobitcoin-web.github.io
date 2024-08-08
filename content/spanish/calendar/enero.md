@@ -25,7 +25,7 @@ El titular de ese día reporta “El Canciller (británico) está considerando u
 
 Los 50 bitcoin que contiene el bloque jamás han sido movidos y no se podrán mover nunca por una particularidad en el código. Se desconoce si Satoshi hizo esto a propósito o si fue accidental.
 
-Desde que se minó el bloque hasta que se lanzó el software transcurrieron seis días. Se presume que para comprobar y verificar la creación, pero solo Nakamoto podría darnos la certeza. 
+Desde que se minó el bloque hasta que se lanzó el software transcurrieron seis días. Se presume que para comprobar y verificar la creación, pero solo Nakamoto podría darnos la certeza.
 
 Lo cierto es que el 3 de enero de 2009 empezó una revolución silenciosa que, años después, cambiaría el panorama económico mundial.
 
@@ -122,7 +122,7 @@ El 19 de enero de 2019 @hodlonaut inició la cadena de confianza Lightning Torch
 
 {{< image src="/images/efemerides/19-enero.png" caption="" alt="Tuit de @hodlonaut dando partida a la antorcha de LN" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Captura del inicio de la antorcha de Lightning Network" webp="false" >}}
 
-El para entonces desconocido @hodlonaut escribió: 
+El para entonces desconocido @hodlonaut escribió:
 
 >_Un poco de diversión LN._
 >
