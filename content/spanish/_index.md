@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Comienza"
-    link: "/"
+    link: "/es/abc-de-bitcoin/"
 
 # Features
 features: 
