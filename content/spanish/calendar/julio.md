@@ -3,6 +3,8 @@ title: "Julio"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/azul.jpg"
+categories: ["Calendario"]
+tag: ["", "", ""]
 date: 2024-07-29T00:21:54-04:00
 draft: false
 ---
@@ -35,6 +37,12 @@ El personaje luego fue identificado como Christian Langalis.
 
 {{< /accordion >}}
 
-{{< button label="Junio" position="left" link="/calendar/junio" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Agosto" position="right" link="/calendar/agosto" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Junio" position="left" link="/calendar/junio" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Agosto ⭢" position="right" link="/calendar/agosto" style="solid" >}}
+</center></p>

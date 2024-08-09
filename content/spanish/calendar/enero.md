@@ -3,6 +3,8 @@ title: "Enero"
 meta_title: "Efemérides de Bitcoin de enero"
 description: "Todas las fechas significativas de la historia de Bitcoin en enero"
 image: "images/banners/naranja.jpg"
+categories: ["Calendario"]
+tag: ["", "", ""]
 date: 2024-07-29T00:21:59-04:00
 draft: false
 ---
@@ -185,6 +187,12 @@ El 29 de enero de 2009 el usuario de Twitter @fafcffacfff publicó el segundo tu
 
 {{< /accordion >}}
 
-{{< button label="Diciembre" position="left" link="/calendar/diciembre" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Febrero" position="right" link="/calendar/febrero" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Diciembre" position="left" link="/calendar/diciembre" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Febrero ⭢" position="left" link="/calendar/febrero" style="solid" >}}
+</center></p>
