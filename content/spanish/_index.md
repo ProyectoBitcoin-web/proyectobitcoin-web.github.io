@@ -50,7 +50,7 @@ features:
 # Calendar
   - title: "Calendario de Efemérides"
     image: "/images/efemerides-hompage-500x500.png"
-    content: "Descubre las fechas clave que marcaron la historia de Bitcoin, mes a mes. En nuestro calendario de efemerides 'Tal dia como hoy', encontrarás cada evento explicado y contextualizado, con imágenes y referencias, para que te sumerjas en la historia de la primera criptomoneda."
+    content: "Descubre las fechas clave que marcaron la historia de Bitcoin, mes a mes. En nuestro calendario de efemerides, 'Tal dia como hoy', encontrarás cada evento explicado y contextualizado, con imágenes y referencias."
     button:
       enable: true
       label: "calendario"
