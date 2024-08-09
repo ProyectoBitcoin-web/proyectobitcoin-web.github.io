@@ -3,7 +3,7 @@ title: "Octubre"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/violeta.jpg"
-categories: ["Hitos", "Calendario"]
+categories: ["Calendario"]
 tag: ["", "", ""]
 date: 2024-07-29T00:21:51-04:00
 draft: false
@@ -127,6 +127,12 @@ La publicación del _white paper_ de Bitcoin hizo historia.
 
 {{< /accordion >}}
 
-{{< button label="Septiembre" position="left" link="/calendar/septiembre" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Noviembre" position="right" link="/calendar/noviembre" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Septiembre" position="left" link="/calendar/septiembre" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Noviembre ⭢" position="right" link="/calendar/noviembre" style="solid" >}}
+</center></p>

@@ -3,6 +3,8 @@ title: "Septiembre"
 meta_title: "Eventos destacados de Bitcoin en Septiembre | Proyecto Bitcoin"
 description: "Eventos históricos de Bitcoin en septiembre"
 image: "images/banners/naranja.jpg"
+categories: ["Calendario"]
+tag: ["", "", ""]
 date: 2024-07-29T00:21:52-04:00
 draft: false
 ---
@@ -61,6 +63,12 @@ Este incidente jamás pasó a mayores, así que es de suponer que el atacante es
 
 {{< /accordion >}}
 
-{{< button label="Agosto" position="left" link="/calendar/agosto" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Octubre" position="right" link="/calendar/octubre" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Agosto" position="left" link="/calendar/agosto" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Octubre ⭢" position="right" link="/calendar/octubre" style="solid" >}}
+</center></p>

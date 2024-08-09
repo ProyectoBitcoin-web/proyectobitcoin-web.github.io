@@ -4,6 +4,8 @@ date: 2024-07-29T00:21:50-04:00
 meta_title: "Efemérides de Bitcoin de noviembre"
 description: "Todas las fechas significativas de la historia de Bitcoin en noviembre"
 image: "images/banners/azul.jpg"
+categories: ["Calendario"]
+tag: ["", "", ""]
 draft: false
 ---
 
@@ -151,6 +153,12 @@ El texto en la página de donaciones reza: “La Fundación Mozilla es una corpo
 
 {{< /accordion >}}
 
-{{< button label="Octubre" position="left" link="/calendar/octubre" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Diciembre" position="right" link="/calendar/diciembre" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Octubre" position="left" link="/calendar/octubre" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Diciembre ⭢" position="right" link="/calendar/diciembre" style="solid" >}}
+</center></p>

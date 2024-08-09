@@ -3,7 +3,7 @@ title: "Agosto"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/rojo.jpg"
-categories: ["Hitos", "Calendario"]
+categories: ["Calendario"]
 tag: ["Segwit", "Vulnerabilidad", "Minería", "PoW", "Hal Finney"]
 date: 2024-07-29T00:21:53-04:00
 draft: false
@@ -142,6 +142,12 @@ El famoso paciente 128.
 
 {{< /accordion >}}
 
-{{< button label="Julio" position="left" link="/calendar/julio" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Septiembre" position="right" link="/calendar/septiembre" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Julio" position="left" link="/calendar/julio" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Septiembre ⭢" position="right" link="/calendar/septiembre" style="solid" >}}
+</center></p>

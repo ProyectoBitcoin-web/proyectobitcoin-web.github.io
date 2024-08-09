@@ -3,7 +3,7 @@ title: "Junio"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/violeta.jpg"
-categories: ["Hitos", "Calendario"]
+categories: ["Calendario"]
 tag: ["", "", ""]
 date: 2024-07-29T00:21:55-04:00
 draft: false
@@ -221,6 +221,12 @@ Nunca se identificó al / los responsable(s).
 
 {{< /accordion >}}
 
-{{< button label="Mayo" position="left" link="/calendar/mayo" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Julio" position="right" link="/calendar/julio" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Mayo" position="left" link="/calendar/mayo" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Julio ⭢" position="right" link="/calendar/julio" style="solid" >}}
+</center></p>

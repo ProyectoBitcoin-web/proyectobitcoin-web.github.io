@@ -3,7 +3,7 @@ title: "Febrero"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/violeta.jpg"
-categories: ["Hitos", "Calendario"]
+categories: ["Calendario"]
 tag: ["BTC", "Mt Gox", "Exchanges"]
 date: 2024-07-29T00:21:58-04:00
 draft: false
@@ -165,6 +165,12 @@ El monto robado hoy tendría un valor superior a los 17 mil millones de dólares
 
 {{< /accordion >}}
 
-{{< button label="Enero" position="left" link="/calendar/enero" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Marzo" position="right" link="/calendar/marzo" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Enero" position="left" link="/calendar/enero" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Marzo ⭢" position="right" link="/calendar/marzo" style="solid" >}}
+</center></p>

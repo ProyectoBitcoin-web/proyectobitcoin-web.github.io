@@ -3,7 +3,7 @@ title: "Abril"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/rojo.jpg"
-categories: ["Hitos", "Calendario"]
+categories: ["Calendario"]
 tag: ["Satoshi Nakamoto", "Métodos de pago", "oro"]
 date: 2024-07-29T00:21:56-04:00
 draft: false
@@ -119,6 +119,12 @@ Gracias a [@joc_ra](https://x.com/joc_ra) por el aporte. ❤️✨
 
 {{< /accordion >}}
 
-{{< button label="Marzo" position="left" link="/calendar/marzo" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Mayo" position="right" link="/calendar/mayo" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Marzo" position="left" link="/calendar/marzo" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Mayo ⭢" position="right" link="/calendar/mayo" style="solid" >}}
+</center></p>

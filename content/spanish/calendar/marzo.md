@@ -3,6 +3,8 @@ title: "Marzo"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/azul.jpg"
+categories: ["Calendario"]
+tag: ["", "", ""]
 date: 2024-07-29T00:21:57-04:00
 draft: false
 ---
@@ -337,6 +339,12 @@ La transacción mínima era de doscientos reales (R$ 200,00)
 
 {{< /accordion >}}
 
-{{< button label="Febrero" position="left" link="/calendar/febrero" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Abril" position="right" link="/calendar/abril" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Febrero" position="left" link="/calendar/febrero" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Abril ⭢" position="right" link="/calendar/abril" style="solid" >}}
+</center></p>

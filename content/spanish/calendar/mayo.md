@@ -3,6 +3,8 @@ title: "Mayo"
 meta_title: "Tal día como hoy en Bitcoin: Hitos y efemérides bitcoiners | Proyecto Bitcoin"
 description: "Fechas más relevantes en el desarrollo de Bitcoin, mes a mes"
 image: "images/banners/naranja.jpg"
+categories: ["Calendario"]
+tag: ["", "", ""]
 date: 2024-07-29T00:21:56-04:00
 draft: false
 ---
@@ -89,6 +91,12 @@ A partir de entonces, la comunidad celebra cada 22 de mayo, con pizza, el día e
 
 {{< /accordion >}}
 
-{{< button label="Abril" position="left" link="/calendar/abril" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Junio" position="right" link="/calendar/junio" style="solid" >}}
-
 <hr>
+
+<p><center>
+{{< button label="⭠ Abril" position="left" link="/calendar/abril" style="solid" >}}
+
+{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+
+{{< button label="Junio ⭢" position="right" link="/calendar/junio" style="solid" >}}
+</center></p>
