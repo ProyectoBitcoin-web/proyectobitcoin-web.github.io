@@ -221,4 +221,6 @@ Nunca se identificó al / los responsable(s).
 
 {{< /accordion >}}
 
+{{< button label="Mayo" position="left" link="/calendar/mayo" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Julio" position="right" link="/calendar/julio" style="solid" >}}
+
 <hr>

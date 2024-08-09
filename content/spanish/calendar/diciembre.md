@@ -13,11 +13,11 @@ draft: false
 
 El 12 de diciembre de 2010, Satoshi Nakamoto deja su último mensaje en el foro BitcoinTalk.
 
-{{< image src="images/efemerides/12-diciembre-2010-1.PNG" caption="" alt="Captura del mensaje en el foro BitcoinTalk" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Último mensaje de Satoshi"  webp="false" >}}
+{{< image src="images/efemerides/12-diciembre-2010-1.PNG" caption="" alt="Captura del mensaje en el foro BitcoinTalk" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Último mensaje de Satoshi"  webp="false" >}}
 
 Miembro fundador del sitio de discusión sobre la criptomoneda, Satoshi se había registrado el 19 de noviembre de 2009
 
-{{< image src="images/efemerides/12-diciembre-2010-2.PNG" caption="" alt="Captura del registro de Satoshi en BitcoinTalk" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Registro de Satoshi en BitcoinTalk"  webp="false" >}}
+{{< image src="images/efemerides/12-diciembre-2010-2.PNG" caption="" alt="Captura del registro de Satoshi en BitcoinTalk" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Registro de Satoshi en BitcoinTalk"  webp="false" >}}
 
 “Hay más trabajo por hacer en DoS, pero estoy haciendo una compilación rápida de lo que tengo hasta ahora, en caso de que sea necesario, antes de aventurarme en ideas más complejas.”
 
@@ -87,5 +87,7 @@ Define una nueva estructura llamada "testigo" que se asigna a bloques por separa
 - <https://es.wikipedia.org/wiki/SegWit>
 
 {{< /accordion >}}
+
+{{< button label="Noviembre" position="left" link="/calendar/noviembre" style="solid" >}} {{< button label="Calendario" position="center" link="calendar/" style="solid" >}} {{< button label="Enero" position="right" link="/calendar/enero" style="solid" >}}
 
 <hr>
