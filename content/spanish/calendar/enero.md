@@ -190,9 +190,9 @@ El 29 de enero de 2009 el usuario de Twitter @fafcffacfff publicó el segundo tu
 <hr>
 
 <p><center>
-{{< button label="⭠ Diciembre" position="left" link="/calendar/diciembre" style="solid" >}}
+{{< button label="⬅︎ Diciembre" position="left" link="/calendar/diciembre" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Febrero ⭢" position="left" link="/calendar/febrero" style="solid" >}}
+{{< button label="Febrero ➡︎" position="left" link="/calendar/febrero" style="solid" >}}
 </center></p>
