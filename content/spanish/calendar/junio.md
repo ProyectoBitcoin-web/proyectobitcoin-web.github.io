@@ -224,9 +224,9 @@ Nunca se identificó al / los responsable(s).
 <hr>
 
 <p><center>
-{{< button label="⭠ Mayo" position="left" link="/calendar/mayo" style="solid" >}}
+{{< button label="⬅︎ Mayo" position="left" link="/calendar/mayo" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Julio ⭢" position="right" link="/calendar/julio" style="solid" >}}
+{{< button label="Julio ➡︎" position="right" link="/calendar/julio" style="solid" >}}
 </center></p>

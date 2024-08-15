@@ -94,9 +94,9 @@ A partir de entonces, la comunidad celebra cada 22 de mayo, con pizza, el día e
 <hr>
 
 <p><center>
-{{< button label="⭠ Abril" position="left" link="/calendar/abril" style="solid" >}}
+{{< button label="⬅︎ Abril" position="left" link="/calendar/abril" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Junio ⭢" position="right" link="/calendar/junio" style="solid" >}}
+{{< button label="Junio ➡︎" position="right" link="/calendar/junio" style="solid" >}}
 </center></p>

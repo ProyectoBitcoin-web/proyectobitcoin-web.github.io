@@ -130,9 +130,9 @@ La publicación del _white paper_ de Bitcoin hizo historia.
 <hr>
 
 <p><center>
-{{< button label="⭠ Septiembre" position="left" link="/calendar/septiembre" style="solid" >}}
+{{< button label="⬅︎ Septiembre" position="left" link="/calendar/septiembre" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Noviembre ⭢" position="right" link="/calendar/noviembre" style="solid" >}}
+{{< button label="Noviembre ➡︎" position="right" link="/calendar/noviembre" style="solid" >}}
 </center></p>

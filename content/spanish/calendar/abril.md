@@ -122,9 +122,9 @@ Gracias a [@joc_ra](https://x.com/joc_ra) por el aporte. ❤️✨
 <hr>
 
 <p><center>
-{{< button label="⭠ Marzo" position="left" link="/calendar/marzo" style="solid" >}}
+{{< button label="⬅︎ Marzo" position="left" link="/calendar/marzo" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Mayo ⭢" position="right" link="/calendar/mayo" style="solid" >}}
+{{< button label="Mayo ➡︎" position="right" link="/calendar/mayo" style="solid" >}}
 </center></p>

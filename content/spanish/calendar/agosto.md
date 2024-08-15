@@ -145,9 +145,9 @@ El famoso paciente 128.
 <hr>
 
 <p><center>
-{{< button label="⭠ Julio" position="left" link="/calendar/julio" style="solid" >}}
+{{< button label="⬅︎ Julio" position="left" link="/calendar/julio" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Septiembre ⭢" position="right" link="/calendar/septiembre" style="solid" >}}
+{{< button label="Septiembre ➡︎" position="right" link="/calendar/septiembre" style="solid" >}}
 </center></p>
