@@ -66,9 +66,9 @@ Este incidente jamás pasó a mayores, así que es de suponer que el atacante es
 <hr>
 
 <p><center>
-{{< button label="⭠ Agosto" position="left" link="/calendar/agosto" style="solid" >}}
+{{< button label="⬅︎ Agosto" position="left" link="/calendar/agosto" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Octubre ⭢" position="right" link="/calendar/octubre" style="solid" >}}
+{{< button label="Octubre ➡︎" position="right" link="/calendar/octubre" style="solid" >}}
 </center></p>

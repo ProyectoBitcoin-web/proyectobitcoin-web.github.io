@@ -156,9 +156,9 @@ El texto en la página de donaciones reza: “La Fundación Mozilla es una corpo
 <hr>
 
 <p><center>
-{{< button label="⭠ Octubre" position="left" link="/calendar/octubre" style="solid" >}}
+{{< button label="⬅︎ Octubre" position="left" link="/calendar/octubre" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Diciembre ⭢" position="right" link="/calendar/diciembre" style="solid" >}}
+{{< button label="Diciembre ➡︎" position="right" link="/calendar/diciembre" style="solid" >}}
 </center></p>

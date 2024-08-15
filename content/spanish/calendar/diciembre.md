@@ -91,9 +91,9 @@ Define una nueva estructura llamada "testigo" que se asigna a bloques por separa
 <hr>
 
 <p><center>
-{{< button label="⭠ Noviembre" position="left" link="/calendar/noviembre" style="solid" >}}
+{{< button label="⬅︎ Noviembre" position="left" link="/calendar/noviembre" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Enero ⭢" position="right" link="/calendar/enero" style="solid" >}}
+{{< button label="Enero ➡︎" position="right" link="/calendar/enero" style="solid" >}}
 </center></p>

@@ -40,9 +40,9 @@ El personaje luego fue identificado como Christian Langalis.
 <hr>
 
 <p><center>
-{{< button label="⭠ Junio" position="left" link="/calendar/junio" style="solid" >}}
+{{< button label="⬅︎ Junio" position="left" link="/calendar/junio" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Agosto ⭢" position="right" link="/calendar/agosto" style="solid" >}}
+{{< button label="Agosto ➡︎" position="right" link="/calendar/agosto" style="solid" >}}
 </center></p>

@@ -342,9 +342,9 @@ La transacción mínima era de doscientos reales (R$ 200,00)
 <hr>
 
 <p><center>
-{{< button label="⭠ Febrero" position="left" link="/calendar/febrero" style="solid" >}}
+{{< button label="⬅︎ Febrero" position="left" link="/calendar/febrero" style="solid" >}}
 
-{{< button label="Calendario ⭡" position="left" link="calendar/" style="solid" >}}
+{{< button label="Calendario ⬆︎" position="left" link="calendar/" style="solid" >}}
 
-{{< button label="Abril ⭢" position="right" link="/calendar/abril" style="solid" >}}
+{{< button label="Abril ➡︎" position="right" link="/calendar/abril" style="solid" >}}
 </center></p>
