@@ -13,7 +13,7 @@ draft: false
 
 El 3 de enero de 2009 fue minado el primer bloque de la red Bitcoin, conocido como "Bloque Génesis".
 
-{{< image src="/images/efemerides/3-enero.png" caption="" alt="Captura del bloque génesis en mempool.space" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Vista del bloque génesis en un explrador de bloques" webp="false" >}}
+{{< image src="/images/efemerides/3-enero.png" caption="" alt="Captura del bloque génesis en mempool.space" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Vista del bloque génesis en un explrador de bloques" webp="false" zoomable="true" >}}
 
 El bloque solo contiene la transacción que genera los primeros 50 BTC y es el único que no tiene un bloque que le preceda, por lo que fue necesario modificar algunos parámetros, exclusivamente para él.
 
@@ -23,7 +23,7 @@ El bloque fue minado por Satoshi Nakamoto y contiene el titular del periódico �
 
 El titular de ese día reporta “El Canciller (británico) está considerando un segundo programa de rescate a la banca”. El sistema financiero hace agua y Bitcoin llega para ofrecer una salida.
 
-{{< image src="/images/efemerides/3-enero-2.png" caption="" alt="Fotografía de la portada del Times de Londres" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="La portada del Times de Londres enmarcada" webp="false" >}}
+{{< image src="/images/efemerides/3-enero-2.png" caption="" alt="Fotografía de la portada del Times de Londres" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="La portada del Times de Londres enmarcada" webp="false" zoomable="true" >}}
 
 Los 50 bitcoin que contiene el bloque jamás han sido movidos y no se podrán mover nunca por una particularidad en el código. Se desconoce si Satoshi hizo esto a propósito o si fue accidental.
 
@@ -46,7 +46,7 @@ P.S: les dejamos una entrevista imaginaria con Satoshi Nakamoto: [Mi entrevista 
 
 El 6 de enero de 2015, la casa de intercambio Bitstamp anunció que paralizaría temporalmente el servicio mientras investigaban un ataque informático que resultó en el robo de su cartera caliente con unos 19.000 bitcoin.
 
-{{< image src="/images/efemerides/6-enero-1.png" caption="" alt="Logo de la casa de cambios Bitsamp" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Logo del exchange Bitstamp" webp="false" >}}
+{{< image src="/images/efemerides/6-enero-1.png" caption="" alt="Logo de la casa de cambios Bitsamp" height="" width="320" position="center" command="" option="q100" class="img-fluid" title="Logo del exchange Bitstamp" webp="false" zoomable="true" >}}
 
 El robo representaba unos 5 millones de dólares en el momento (276 USD/BTC).Bitstamp pidió a sus clientes no realizar depósitos en ninguna de las direcciones previamente utilizadas por la casa de cambio hasta no determinar cuáles habían sido comprometidas y cuáles no.
 
@@ -75,7 +75,7 @@ Con todo, la dirección presenta movimientos hasta julio del 2020, [con el últi
 
 El 9 de enero de 2009 se lanza el primer cliente de software de código abierto para correr nodos de Bitcoin, a través de la plataforma SourceForge.
 
-{{< image src="/images/efemerides/9-enero.png" caption="" alt="Captura del anuncio de lanzamiento del código de Bitcoin" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Anuncio del lanzamiento del codigo de Bitcoin en SourceForge" webp="false" >}}
+{{< image src="/images/efemerides/9-enero.png" caption="" alt="Captura del anuncio de lanzamiento del código de Bitcoin" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Anuncio del lanzamiento del codigo de Bitcoin en SourceForge" webp="false" zoomable="true" >}}
 
 El anuncio lo hizo Satoshi Nakamoto en la lista de correos el mismo día:
 
@@ -93,11 +93,11 @@ Hasta ese momento, el único minero de Bitcoin era Satoshi.
 
 El 11 de enero de 2009 a las 23 horas (-4 GTM) se realizó la primera transacción en Bitcoin. Satoshi le envió 10 monedas a Hal Finney, en un intercambio que quedó registrado en el bloque 170.
 
-{{< image src="/images/efemerides/11-enero-1.png" caption="" alt="Captura de la primera transaccion de bitcoin" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Bloque 170 donde se registra la primera transaccion de Bitcoin" webp="false" >}}
+{{< image src="/images/efemerides/11-enero-1.png" caption="" alt="Captura de la primera transaccion de bitcoin" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Bloque 170 donde se registra la primera transaccion de Bitcoin" webp="false" zoomable="true" >}}
 
 Finney comentó la transacción años después, en 2013, en el foro Bitcointalk, en una entrada que tituló “Bitcoin y yo” donde resumía sus experiencias con Satoshi y la criptomoneda, justo antes de ser diagnosticado con ALS (amyotrophic lateral sclerosis)
 
-{{< image src="/images/efemerides/11-enero-2.png" caption="" alt="Captura del post Bitcoin y Yo de Hal Finney" height="" width="1000" position="center" command="" option="q100" class="img-fluid" title="Relato de Hal Finney de los primeros dias de Bitocin" webp="false" >}}
+{{< image src="/images/efemerides/11-enero-2.png" caption="" alt="Captura del post Bitcoin y Yo de Hal Finney" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Relato de Hal Finney de los primeros dias de Bitocin" webp="false" zoomable="true" >}}
 
 En el texto, Finney declaró:
 
@@ -105,7 +105,7 @@ En el texto, Finney declaró:
 
 Hal Finney murió en Phoenix, a los 58 años, el 28 de agosto de 2014 y fue criopreservado por la Alcor Life Extension Foundation.
 
-{{< image src="/images/efemerides/10-enero-2009.png" caption="" alt="Tuit de  Hal Finney" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Hal Finney anuncia que se unió a Bitocin" webp="false" >}}
+{{< image src="/images/efemerides/10-enero-2009.png" caption="" alt="Tuit de  Hal Finney" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Hal Finney anuncia que se unió a Bitocin" webp="false" zoomable="true" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -122,7 +122,7 @@ Hal Finney murió en Phoenix, a los 58 años, el 28 de agosto de 2014 y fue crio
 
 El 19 de enero de 2019 @hodlonaut inició la cadena de confianza Lightning Torch, pensada primero como un juego, dirigido a ofrecer la experiencia de pagos en LN dentro de la comunidad y difundir el uso de la solución de segunda capa.
 
-{{< image src="/images/efemerides/19-enero.png" caption="" alt="Tuit de @hodlonaut dando partida a la antorcha de LN" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Captura del inicio de la antorcha de Lightning Network" webp="false" >}}
+{{< image src="/images/efemerides/19-enero.png" caption="" alt="Tuit de @hodlonaut dando partida a la antorcha de LN" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Captura del inicio de la antorcha de Lightning Network" webp="false" zoomable="true" >}}
 
 El para entonces desconocido @hodlonaut escribió:
 
@@ -165,7 +165,7 @@ El 11 de abril de 2019 los fondos fueron entregados a @btcven, luego de recorrer
 
 El 25 de enero de 2016 la potencia de minería superó, por primera vez, 1 exahash/segundo.
 
-{{< image src="/images/efemerides/25-enero.png" caption="" alt="Gráfico de la potencia de minado" height="" width="940" position="center" command="" option="q100" class="img-fluid" title="Captura del grafico de incremento de la potencia de minado" webp="false" >}}
+{{< image src="/images/efemerides/25-enero.png" caption="" alt="Gráfico de la potencia de minado" height="" width="940" position="center" command="" option="q100" class="img-fluid" title="Captura del grafico de incremento de la potencia de minado" webp="false" zoomable="true" >}}
 
 {{< accordion "Fuentes" >}}
 
@@ -179,7 +179,7 @@ El 25 de enero de 2016 la potencia de minería superó, por primera vez, 1 exaha
 
 El 29 de enero de 2009 el usuario de Twitter @fafcffacfff publicó el segundo tuit mencionando a Bitcoin, con el anuncio de la v0.1.2.
 
-{{< image src="/images/efemerides/29-enero-2009.png" caption="" alt="Captura del segundo tuit mencionando a Bitcoin" height="" width="640" position="center" command="" option="q100" class="img-fluid" title="Anuncio de la versión 0.1.2 de Bitcoin" webp="false" >}}
+{{< image src="/images/efemerides/29-enero-2009.png" caption="" alt="Captura del segundo tuit mencionando a Bitcoin" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Anuncio de la versión 0.1.2 de Bitcoin" webp="false" zoomable="true" >}}
 
 {{< accordion "Fuentes" >}}
 
